@@ -1,0 +1,1218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D4952B12-156B-4E78-9FA1-C81883BBB273}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sub Main</StartupObject>
+    <RootNamespace>Lender</RootNamespace>
+    <AssemblyName>Lender</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>C:\GGC_Systems\vb.net\</OutputPath>
+    <DocumentationFile>Lender.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Lender.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>Off</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Text</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>newLogo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="adodb, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="ggcMCInventory, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\GGC_Systems\vb.net\ggcMCInventory.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data, Version=6.7.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\GGC_Systems\vb.net\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.Entity, Version=6.7.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\GGC_Systems\vb.net\MySql.Data.Entity.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\net40\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PayPalCoreSDK, Version=1.7.1.0, Culture=neutral, PublicKeyToken=5b4afc1ccaef40fb, processorArchitecture=MSIL">
+      <HintPath>..\packages\PayPalCoreSDK.1.7.1\lib\net40\PayPalCoreSDK.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="CrystalDecisions.CrystalReports.Engine" />
+    <Import Include="CrystalDecisions.ReportSource" />
+    <Import Include="CrystalDecisions.Shared" />
+    <Import Include="CrystalDecisions.Windows.Forms" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmCITagging.Designer.vb">
+      <DependentUpon>FrmCITagging.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCITagging.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCITaggingViewing.Designer.vb">
+      <DependentUpon>frmCITaggingViewing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCITaggingViewing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEPay.designer.vb">
+      <DependentUpon>frmEPay.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEPay.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLRApplicationTransfer.Designer.vb">
+      <DependentUpon>frmLRApplicationTransfer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLRApplicationTransfer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMarketplace.Designer.vb">
+      <DependentUpon>frmMarketplace.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMarketplace.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMarketplaceHistory.Designer.vb">
+      <DependentUpon>frmMarketplaceHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMarketplaceHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMPCreditAppHistory.Designer.vb">
+      <DependentUpon>frmMPCreditAppHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMPCreditAppHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMCCreditAppHistory.Designer.vb">
+      <DependentUpon>frmMCCreditAppHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMCCreditAppHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarApplicationHistory.Designer.vb">
+      <DependentUpon>frmCarApplicationHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarApplicationHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarApplicationApproval.Designer.vb">
+      <DependentUpon>frmCarApplicationApproval.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarApplicationApproval.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAppApprovalPreview.Designer.vb">
+      <DependentUpon>frmAppApprovalPreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAppApprovalPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDateCriteria.Designer.vb">
+      <DependentUpon>frmDateCriteria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDateCriteria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoadInfo.Designer.vb">
+      <DependentUpon>frmLoadInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoadInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMCCreditAppCategorization.Designer.vb">
+      <DependentUpon>frmMCCreditAppCategorization.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMCCreditAppCategorization.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMCCreditAppOverride.Designer.vb">
+      <DependentUpon>frmMCCreditAppOverride.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMCCreditAppOverride.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMCCreditAppResult.Designer.vb">
+      <DependentUpon>frmMCCreditAppResult.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMCCreditAppResult.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMCCreditAppReview.Designer.vb">
+      <DependentUpon>frmMCCreditAppReview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMCCreditAppReview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMCCreditApp.Designer.vb">
+      <DependentUpon>frmMCCreditApp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMCCreditApp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMCCreditAppQM.Designer.vb">
+      <DependentUpon>frmMCCreditAppQM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMCCreditAppQM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMCModel.Designer.vb">
+      <DependentUpon>frmMCModel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMCModel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMonitor.Designer.vb">
+      <DependentUpon>frmMonitor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMonitor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMPCreditApp.Designer.vb">
+      <DependentUpon>frmMPCreditApp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMPCreditApp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMPCreditAppReg.Designer.vb">
+      <DependentUpon>frmMPCreditAppReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMPCreditAppReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMCMasterReg.Designer.vb">
+      <DependentUpon>frmMCMasterReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMCMasterReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clsBillPrint.vb" />
+    <Compile Include="clsBillReport.vb" />
+    <Compile Include="clsBranchReport.vb" />
+    <Compile Include="clsCTPrint.vb" />
+    <Compile Include="clsMPPayment.vb" />
+    <Compile Include="clsMPReports.vb" />
+    <Compile Include="clsReports.vb" />
+    <Compile Include="clsBranch.vb" />
+    <Compile Include="frmBillingReg.Designer.vb">
+      <DependentUpon>frmBillingReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBillingReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBillingReport.Designer.vb">
+      <DependentUpon>frmBillingReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBillingReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarApplicationApprovalold.Designer.vb">
+      <DependentUpon>frmCarApplicationApprovalold.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarApplicationApprovalold.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarApplicationEntry.Designer.vb">
+      <DependentUpon>frmCarApplicationEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarApplicationEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarApplicationRelease.Designer.vb">
+      <DependentUpon>frmCarApplicationRelease.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarApplicationRelease.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarCheckClearing.Designer.vb">
+      <DependentUpon>frmCarCheckClearing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarCheckClearing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarPaymentEntry.Designer.vb">
+      <DependentUpon>frmCarPaymentEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarPaymentEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarPaymentPosting.Designer.vb">
+      <DependentUpon>frmCarPaymentPosting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarPaymentPosting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarPaymentPostingPR.Designer.vb">
+      <DependentUpon>frmCarPaymentPostingPR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarPaymentPostingPR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarPaymentPR.Designer.vb">
+      <DependentUpon>frmCarPaymentPR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarPaymentPR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarPaymentPRReg.Designer.vb">
+      <DependentUpon>frmCarPaymentPRReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarPaymentPRReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarPaymentReg.Designer.vb">
+      <DependentUpon>frmCarPaymentReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarPaymentReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarRegistrationLedger.Designer.vb">
+      <DependentUpon>frmCarRegistrationLedger.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarRegistrationLedger.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCTBillingMaster.Designer.vb">
+      <DependentUpon>frmCTBillingMaster.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCTBillingMaster.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCTLoanManagement.Designer.vb">
+      <DependentUpon>frmCTLoanManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCTLoanManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCTPosting.Designer.vb">
+      <DependentUpon>frmCTPosting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCTPosting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLenderReg.Designer.vb">
+      <DependentUpon>frmLenderReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLenderReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAutoLedger.Designer.vb">
+      <DependentUpon>frmAutoLedger.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAutoLedger.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoanManagement.Designer.vb">
+      <DependentUpon>frmLoanManagement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoanManagement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLoanPosting.Designer.vb">
+      <DependentUpon>frmLoanPosting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoanPosting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAutoARReg.Designer.vb">
+      <DependentUpon>frmAutoARReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAutoARReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMPMasterReg.Designer.vb">
+      <DependentUpon>frmMPMasterReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMPMasterReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMPPaymentEntry.Designer.vb">
+      <DependentUpon>frmMPPaymentEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMPPaymentEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMPPaymentEntryPR.Designer.vb">
+      <DependentUpon>frmMPPaymentEntryPR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMPPaymentEntryPR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMPPaymentEntryReg.Designer.vb">
+      <DependentUpon>frmMPPaymentEntryReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMPPaymentEntryReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMPPaymentPosting.Designer.vb">
+      <DependentUpon>frmMPPaymentPosting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMPPaymentPosting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMPPaymentPRPosting.Designer.vb">
+      <DependentUpon>frmMPPaymentPRPosting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMPPaymentPRPosting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMPPaymentRegPR.Designer.vb">
+      <DependentUpon>frmMPPaymentRegPR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMPPaymentRegPR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPayment.Designer.vb">
+      <DependentUpon>frmPayment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPaymentPartners.Designer.vb">
+      <DependentUpon>frmPaymentPartners.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPaymentPartners.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrintPreview.Designer.vb">
+      <DependentUpon>frmPrintPreview.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrintPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQuickMatch.Designer.vb">
+      <DependentUpon>frmQuickMatch.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuickMatch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReceived.Designer.vb">
+      <DependentUpon>frmReceived.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReceived.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportMenu.Designer.vb">
+      <DependentUpon>frmReportMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSample.Designer.vb">
+      <DependentUpon>frmSample.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSample.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarBrand.Designer.vb">
+      <DependentUpon>frmCarBrand.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarBrand.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarColor.Designer.vb">
+      <DependentUpon>frmCarColor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarColor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarModel.Designer.vb">
+      <DependentUpon>frmCarModel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarModel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarSerial.Designer.vb">
+      <DependentUpon>frmCarSerial.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarSerial.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCarSerialRegistration.Designer.vb">
+      <DependentUpon>frmCarSerialRegistration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarSerialRegistration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSysUser.designer.vb">
+      <DependentUpon>frmSysUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSysUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lookup.vb" />
+    <Compile Include="mdiCarTrade.Designer.vb">
+      <DependentUpon>mdiCarTrade.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mdiCarTrade.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmARPaymentApproval.Designer.vb">
+      <DependentUpon>frmARPaymentApproval.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmARPaymentApproval.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmARPaymentApprovalPR.Designer.vb">
+      <DependentUpon>frmARPaymentApprovalPR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmARPaymentApprovalPR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmARPaymentEntry.Designer.vb">
+      <DependentUpon>frmARPaymentEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmARPaymentEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmARPaymentEntryPR.Designer.vb">
+      <DependentUpon>frmARPaymentEntryPR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmARPaymentEntryPR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmARPaymentReg.Designer.vb">
+      <DependentUpon>frmARPaymentReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmARPaymentReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmARPaymentRegPR.Designer.vb">
+      <DependentUpon>frmARPaymentRegPR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmARPaymentRegPR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckClearing.Designer.vb">
+      <DependentUpon>frmCheckClearing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckClearing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCheckReg.Designer.vb">
+      <DependentUpon>frmCheckReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmCheckReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLRPaymentEntryPR.Designer.vb">
+      <DependentUpon>frmLRPaymentEntryPR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLRPaymentEntryPR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLRAdjustmentApproval.Designer.vb">
+      <DependentUpon>frmLRAdjustmentApproval.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLRAdjustmentApproval.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLRAdjustmentEntry.Designer.vb">
+      <DependentUpon>frmLRAdjustmentEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLRAdjustmentEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLRAdjustmentReg.Designer.vb">
+      <DependentUpon>frmLRAdjustmentReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLRAdjustmentReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLRApplicationApproval.Designer.vb">
+      <DependentUpon>frmLRApplicationApproval.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLRApplicationApproval.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLRApplicationEntry.Designer.vb">
+      <DependentUpon>frmLRApplicationEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLRApplicationEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLRApplicationRelease.Designer.vb">
+      <DependentUpon>frmLRApplicationRelease.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLRApplicationRelease.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLRLedger.Designer.vb">
+      <DependentUpon>frmLRLedger.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLRLedger.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLRMasterReg.Designer.vb">
+      <DependentUpon>frmLRMasterReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLRMasterReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLRPaymentEntry.Designer.vb">
+      <DependentUpon>frmLRPaymentEntry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLRPaymentEntry.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLRPaymentPosting.Designer.vb">
+      <DependentUpon>frmLRPaymentPosting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLRPaymentPosting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLRApplicationReg.Designer.vb">
+      <DependentUpon>frmLRApplicationReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLRApplicationReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLRPaymentPostingPR.Designer.vb">
+      <DependentUpon>frmLRPaymentPostingPR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLRPaymentPostingPR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLRPaymentReg.Designer.vb">
+      <DependentUpon>frmLRPaymentReg.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLRPaymentReg.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLRPaymentRegPR.Designer.vb">
+      <DependentUpon>frmLRPaymentRegPR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLRPaymentRegPR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReportViewer.Designer.vb">
+      <DependentUpon>frmReportViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReportViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mdiMain.Designer.vb">
+      <DependentUpon>mdiMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mdiMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mdiMobile.Designer.vb">
+      <DependentUpon>mdiMobile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mdiMobile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modMain.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="frmRedeemableItems.Designer.vb">
+      <DependentUpon>frmRedeemableItems.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRedeemableItems.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PreferredUtil.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmCITagging.resx">
+      <DependentUpon>FrmCITagging.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCITaggingViewing.resx">
+      <DependentUpon>frmCITaggingViewing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEPay.resx">
+      <DependentUpon>frmEPay.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLRApplicationTransfer.resx">
+      <DependentUpon>frmLRApplicationTransfer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMarketplace.resx">
+      <DependentUpon>frmMarketplace.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMarketplaceHistory.resx">
+      <DependentUpon>frmMarketplaceHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMPCreditAppHistory.resx">
+      <DependentUpon>frmMPCreditAppHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMCCreditAppHistory.resx">
+      <DependentUpon>frmMCCreditAppHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarApplicationHistory.resx">
+      <DependentUpon>frmCarApplicationHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarApplicationApproval.resx">
+      <DependentUpon>frmCarApplicationApproval.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAppApprovalPreview.resx">
+      <DependentUpon>frmAppApprovalPreview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDateCriteria.resx">
+      <DependentUpon>frmDateCriteria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoadInfo.resx">
+      <DependentUpon>frmLoadInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMCCreditAppCategorization.resx">
+      <DependentUpon>frmMCCreditAppCategorization.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMCCreditAppOverride.resx">
+      <DependentUpon>frmMCCreditAppOverride.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMCCreditAppResult.resx">
+      <DependentUpon>frmMCCreditAppResult.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMCCreditAppReview.resx">
+      <DependentUpon>frmMCCreditAppReview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMCCreditApp.resx">
+      <DependentUpon>frmMCCreditApp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMCCreditAppQM.resx">
+      <DependentUpon>frmMCCreditAppQM.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMCModel.resx">
+      <DependentUpon>frmMCModel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMonitor.resx">
+      <DependentUpon>frmMonitor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMPCreditApp.resx">
+      <DependentUpon>frmMPCreditApp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMPCreditAppReg.resx">
+      <DependentUpon>frmMPCreditAppReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMCMasterReg.resx">
+      <DependentUpon>frmMCMasterReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBillingReg.resx">
+      <DependentUpon>frmBillingReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBillingReport.resx">
+      <DependentUpon>frmBillingReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarApplicationApprovalold.resx">
+      <DependentUpon>frmCarApplicationApprovalold.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarApplicationEntry.resx">
+      <DependentUpon>frmCarApplicationEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarApplicationRelease.resx">
+      <DependentUpon>frmCarApplicationRelease.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarCheckClearing.resx">
+      <DependentUpon>frmCarCheckClearing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarPaymentEntry.resx">
+      <DependentUpon>frmCarPaymentEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarPaymentPosting.resx">
+      <DependentUpon>frmCarPaymentPosting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarPaymentPostingPR.resx">
+      <DependentUpon>frmCarPaymentPostingPR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarPaymentPR.resx">
+      <DependentUpon>frmCarPaymentPR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarPaymentPRReg.resx">
+      <DependentUpon>frmCarPaymentPRReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarPaymentReg.resx">
+      <DependentUpon>frmCarPaymentReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarRegistrationLedger.resx">
+      <DependentUpon>frmCarRegistrationLedger.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCTBillingMaster.resx">
+      <DependentUpon>frmCTBillingMaster.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCTLoanManagement.resx">
+      <DependentUpon>frmCTLoanManagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCTPosting.resx">
+      <DependentUpon>frmCTPosting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLenderReg.resx">
+      <DependentUpon>frmLenderReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAutoLedger.resx">
+      <DependentUpon>frmAutoLedger.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoanManagement.resx">
+      <DependentUpon>frmLoanManagement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLoanPosting.resx">
+      <DependentUpon>frmLoanPosting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAutoARReg.resx">
+      <DependentUpon>frmAutoARReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMPMasterReg.resx">
+      <DependentUpon>frmMPMasterReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMPPaymentEntry.resx">
+      <DependentUpon>frmMPPaymentEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMPPaymentEntryPR.resx">
+      <DependentUpon>frmMPPaymentEntryPR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMPPaymentEntryReg.resx">
+      <DependentUpon>frmMPPaymentEntryReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMPPaymentPosting.resx">
+      <DependentUpon>frmMPPaymentPosting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMPPaymentPRPosting.resx">
+      <DependentUpon>frmMPPaymentPRPosting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMPPaymentRegPR.resx">
+      <DependentUpon>frmMPPaymentRegPR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPayment.resx">
+      <DependentUpon>frmPayment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPaymentPartners.resx">
+      <DependentUpon>frmPaymentPartners.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrintPreview.resx">
+      <DependentUpon>frmPrintPreview.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuickMatch.resx">
+      <DependentUpon>frmQuickMatch.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReceived.resx">
+      <DependentUpon>frmReceived.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportMenu.resx">
+      <DependentUpon>frmReportMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSample.resx">
+      <DependentUpon>frmSample.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarBrand.resx">
+      <DependentUpon>frmCarBrand.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarColor.resx">
+      <DependentUpon>frmCarColor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarModel.resx">
+      <DependentUpon>frmCarModel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarSerial.resx">
+      <DependentUpon>frmCarSerial.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCarSerialRegistration.resx">
+      <DependentUpon>frmCarSerialRegistration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mdiCarTrade.resx">
+      <DependentUpon>mdiCarTrade.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmARPaymentApproval.resx">
+      <DependentUpon>frmARPaymentApproval.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmARPaymentApprovalPR.resx">
+      <DependentUpon>frmARPaymentApprovalPR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmARPaymentEntry.resx">
+      <DependentUpon>frmARPaymentEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmARPaymentEntryPR.resx">
+      <DependentUpon>frmARPaymentEntryPR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmARPaymentReg.resx">
+      <DependentUpon>frmARPaymentReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmARPaymentRegPR.resx">
+      <DependentUpon>frmARPaymentRegPR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckClearing.resx">
+      <DependentUpon>frmCheckClearing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCheckReg.resx">
+      <DependentUpon>frmCheckReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLRPaymentEntryPR.resx">
+      <DependentUpon>frmLRPaymentEntryPR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLRAdjustmentApproval.resx">
+      <DependentUpon>frmLRAdjustmentApproval.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLRAdjustmentEntry.resx">
+      <DependentUpon>frmLRAdjustmentEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLRAdjustmentReg.resx">
+      <DependentUpon>frmLRAdjustmentReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLRApplicationApproval.resx">
+      <DependentUpon>frmLRApplicationApproval.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLRApplicationEntry.resx">
+      <DependentUpon>frmLRApplicationEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLRApplicationReg.resx">
+      <DependentUpon>frmLRApplicationReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLRApplicationRelease.resx">
+      <DependentUpon>frmLRApplicationRelease.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLRLedger.resx">
+      <DependentUpon>frmLRLedger.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLRMasterReg.resx">
+      <DependentUpon>frmLRMasterReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLRPaymentEntry.resx">
+      <DependentUpon>frmLRPaymentEntry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLRPaymentPosting.resx">
+      <DependentUpon>frmLRPaymentPosting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLRPaymentPostingPR.resx">
+      <DependentUpon>frmLRPaymentPostingPR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLRPaymentReg.resx">
+      <DependentUpon>frmLRPaymentReg.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLRPaymentRegPR.resx">
+      <DependentUpon>frmLRPaymentRegPR.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReportViewer.resx">
+      <DependentUpon>frmReportViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mdiMain.resx">
+      <DependentUpon>mdiMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mdiMobile.resx">
+      <DependentUpon>mdiMobile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRedeemableItems.resx">
+      <DependentUpon>frmRedeemableItems.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="ClassDiagram3.cd" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="Resources\add-item.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\browse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel-update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\history.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ledger.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\omit-item.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\post.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QSBlu0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\retrieve.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STAT-CANCELLED.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STAT-CLOSED.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STAT-OPEN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STAT-POSTED.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STAT-UNKNOWN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\STAT-VOID.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\verify transaction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\verify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\void.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GLogoy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GUANZONRED211.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GUANZONRED21.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="newLogo.ico" />
+    <None Include="Resources\unknown.png" />
+    <None Include="Resources\wrong.png" />
+    <None Include="Resources\Unkstat1.png" />
+    <None Include="Resources\Unkstat.png" />
+    <None Include="Resources\pending.png" />
+    <None Include="Resources\stat_pen.png" />
+    <None Include="Resources\stat_ver.png" />
+    <None Include="Resources\stat_unk.png" />
+    <None Include="Resources\stat_rej.png" />
+    <None Include="Resources\orverride.png" />
+    <None Include="Resources\paper.png" />
+    <None Include="Resources\leader.png" />
+    <None Include="Resources\pen.png" />
+    <None Include="Resources\phonecall.png" />
+    <None Include="Resources\Call.png" />
+    <None Include="Resources\forward.png" />
+    <None Include="Resources\businessman.png" />
+    <None Include="Resources\approval.png" />
+    <None Include="Resources\browsing.png" />
+    <None Include="Resources\approve.png" />
+    <None Include="Resources\disapproved.png" />
+    <None Include="Resources\correct.png" />
+    <None Include="Resources\1366 x 768.jpg" />
+    <Content Include="Resources\GUANZONRED21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\My Applications\ggcAppDriver\ggcAppDriver.vbproj">
+      <Project>{6FA248F3-A2BA-43DF-BE98-032E11714DB5}</Project>
+      <Name>ggcAppDriver</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\My Applications\ggcGOCASMonitor\ggcGOCASMonitor.vbproj">
+      <Project>{43319C8B-E47B-4C57-AA50-A06D59D46415}</Project>
+      <Name>ggcGOCASMonitor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\My Applications\ggcGOCAS\ggcGOCAS.vbproj">
+      <Project>{8F93865B-7346-4760-8DA1-67E7735F51A8}</Project>
+      <Name>ggcGOCAS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\My Applications\ggcLRReports\ggcLRReports.vbproj">
+      <Project>{6D6E1F9C-92B6-4B7D-9B0A-A372D694C62A}</Project>
+      <Name>ggcLRReports</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\My Applications\ggcLRTransaction\ggcLRTransaction.vbproj">
+      <Project>{C3C4E4E5-6947-4E6E-9766-366987E92B3B}</Project>
+      <Name>ggcLRTransaction</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\My Applications\ggcRetailParams\ggcRetailParams\ggcRetailParams.vbproj">
+      <Project>{4883F473-C0B0-4266-A9AC-8E4BCA3C4CB7}</Project>
+      <Name>ggcRetailParams</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\My Applications\rmjGOCAS\rmjGOCAS.vbproj">
+      <Project>{B96645E6-B47E-46F3-855E-E2AA501D680E}</Project>
+      <Name>rmjGOCAS</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

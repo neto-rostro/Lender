@@ -1,0 +1,74 @@
+sAcctNmbr = 00
+dTransact = 01
+xFullName = 02
+xAddressx = 03
+sRemarksx = 04
+nPrincipl = 05
+nInterest = 06
+nSrvcChrg = 07
+nInsChrge = 08
+nIntRatex = 09
+dFirstPay = 10
+nAcctTerm = 11
+dDueDatex = 12
+nMonAmort = 13
+nPenltyRt = 14
+nLastPaym = 15
+dLastPaym = 16
+nLedgerNo = 17
+nPaymTotl = 18
+nPenTotlx = 19
+nDebtTotl = 20
+nCredTotl = 21
+nIntTotal = 22
+nAmtDuexx = 23
+nABalance = 24
+nDelayAvg = 25
+cRatingxx = 26
+cAcctstat = 27
+dClosedxx = 28
+cActivexx = 29
+cLoanType = 30
+sCompnyID = 31
+sBranchCd = 32
+sClientID = 33
+
+
+sAcctNmbr =          
+sSerialID = 
+sEngineNo = 34 1
+sFrameNox = 35 2
+sBrandNme = 36 3
+sModelNme = 37 4 
+sColorNme = 38 5
+sFileNoxx = 39 6
+sCRENoxxx = 40 7
+sCRNoxxxx = 41 8
+sPlateNoP = 42 9
+dRegister = 43 10 
+nYearModl = 44 11
+nFinAmntx = 45
+nSubsidze = 46
+nSubCrdtd = 47
+nInctvAmt = 48
+nInsAmtxx = 49
+nInsAmtPd = 50
+dInsLstPd = 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

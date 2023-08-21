@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c3c4e4e5-6947-4e6e-9766-366987e92b3b": {
+      "ProjectGuid": "c3c4e4e5-6947-4e6e-9766-366987e92b3b",
+      "DisplayName": "ggcLRTransaction",
+      "ColorIndex": 0
+    },
+    "d4952b12-156b-4e78-9fa1-c81883bbb273": {
+      "ProjectGuid": "d4952b12-156b-4e78-9fa1-c81883bbb273",
+      "DisplayName": "Lender",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

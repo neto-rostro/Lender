@@ -1,0 +1,46 @@
+            .Columns.Add("sAcctNmbr", GetType(String)).MaxLength = 10
+            .Columns.Add("xFullName", GetType(String)).MaxLength = 128
+            .Columns.Add("xAddressx", GetType(String)).MaxLength = 128
+            .Columns.Add("sRemarksx", GetType(String)).MaxLength = 128
+            .Columns.Add("dTransact", GetType(Date))
+            .Columns.Add("nPrincipl", GetType(Decimal))
+            .Columns.Add("nInterest", GetType(Decimal))
+            .Columns.Add("nSrvcChrg", GetType(Decimal))
+            .Columns.Add("nInsChrge", GetType(Decimal))
+            .Columns.Add("nIntRatex", GetType(Decimal))
+            .Columns.Add("dFirstPay", GetType(Date))
+            .Columns.Add("nAcctTerm", GetType(Decimal))
+*            .Columns.Add("dDueDatex", GetType(Date))
+*            .Columns.Add("nMonAmort", GetType(Decimal))
+            .Columns.Add("nPenltyRt", GetType(Decimal))
+*            .Columns.Add("nLastPaym", GetType(Decimal))
+*            .Columns.Add("dLastPaym", GetType(Date))
+*            .Columns.Add("nPaymTotl", GetType(Decimal))
+*           .Columns.Add("nPenTotlx", GetType(Decimal))
+*            .Columns.Add("nDebtTotl", GetType(Decimal))
+*            .Columns.Add("nCredTotl", GetType(Decimal))
+*            .Columns.Add("nIntTotal", GetType(Decimal))
+*            .Columns.Add("nAmtDuexx", GetType(Decimal))
+*            .Columns.Add("nABalance", GetType(Decimal))
+*            .Columns.Add("nDelayAvg", GetType(Decimal))
+*            .Columns.Add("dClosedxx", GetType(Date))
+            .Columns.Add("cLoanType", GetType(Char))
+
+            .Columns.Add("sEngineNo", GetType(String)).MaxLength = 30
+            .Columns.Add("sFrameNox", GetType(String)).MaxLength = 30
+            .Columns.Add("sBrandNme", GetType(String)).MaxLength = 30
+            .Columns.Add("sModelNme", GetType(String)).MaxLength = 30
+            .Columns.Add("sColorNme", GetType(String)).MaxLength = 30
+            .Columns.Add("sFileNoxx", GetType(String)).MaxLength = 30
+            .Columns.Add("sCRENoxxx", GetType(String)).MaxLength = 30
+            .Columns.Add("sCRNoxxxx", GetType(String)).MaxLength = 30
+            .Columns.Add("sPlateNoP", GetType(String)).MaxLength = 30
+            .Columns.Add("dRegister", GetType(Date))
+            .Columns.Add("nYearModl", GetType(Integer))
+            .Columns.Add("nFinAmntx", GetType(Decimal))
+            .Columns.Add("nSubsidze", GetType(Decimal))
+            .Columns.Add("nSubCrdtd", GetType(Decimal))
+            .Columns.Add("nInctvAmt", GetType(Decimal))
+            .Columns.Add("nInsAmtxx", GetType(Decimal))
+            .Columns.Add("nInsAmtPd", GetType(Decimal))
+            .Columns.Add("dInsLstPd", GetType(Date))

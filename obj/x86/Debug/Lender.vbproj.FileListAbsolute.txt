@@ -1,0 +1,1699 @@
+D:\Vb.Net Temp\Lender\NorthPoint.exe.config
+D:\Vb.Net Temp\Lender\NorthPoint.exe
+D:\Vb.Net Temp\Lender\NorthPoint.pdb
+D:\Vb.Net Temp\Lender\NorthPoint.xml
+\\192.168.10.216\Lender\NorthPoint.exe.config
+\\192.168.10.216\Lender\NorthPoint.exe
+\\192.168.10.216\Lender\NorthPoint.pdb
+\\192.168.10.216\Lender\NorthPoint.xml
+\\192.168.10.216\Lender\Lender\NorthPoint.exe.config
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmCarCheckClearing.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentEntry.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPosting.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPostingPr.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPR.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmCarRegistrationLedger.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmCTBillingMaster.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmCTLoanManagement.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmCTPosting.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmLoanLedger.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmLoanManagement.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmLoanPosting.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmLoanView.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmPayment.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmReceived.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmSample.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmCarBrand.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmCarColor.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmCarModel.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmCarSerial.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmCarSerialRegistration.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.mdiCarTrade.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentApproval.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentApprovalPR.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentEntry.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentEntryPR.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentReg.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentRegPR.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmCheckClearing.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmCheckReg.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentEntryPR.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentApproval.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentEntry.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentReg.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationApproval.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationEntry.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationReg.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationRelease.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmLRLedger.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmLRMasterReg.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentEntry.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentPosting.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentPostingPR.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentReg.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentRegPR.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.frmReportViewer.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.mdiNorthPoint.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.mdiMain.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.Resources.resources
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.exe
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.xml
+\\192.168.10.216\Lender\Lender\obj\x86\Debug\Lender.pdb
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmCarCheckClearing.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentEntry.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPosting.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPostingPr.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPR.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmCarRegistrationLedger.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmCTBillingMaster.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmCTLoanManagement.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmCTPosting.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmLoanLedger.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmLoanManagement.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmLoanPosting.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmLoanView.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmPayment.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmReceived.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmSample.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmCarBrand.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmCarColor.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmCarModel.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmCarSerial.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmCarSerialRegistration.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.mdiCarTrade.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentApproval.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentApprovalPR.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentEntry.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentEntryPR.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentReg.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentRegPR.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmCheckClearing.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmCheckReg.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentEntryPR.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentApproval.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentEntry.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentReg.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationApproval.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationEntry.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationReg.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationRelease.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmLRLedger.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmLRMasterReg.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentEntry.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentPosting.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentPostingPR.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentReg.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentRegPR.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.frmReportViewer.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.mdiNorthPoint.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.mdiMain.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.Resources.resources
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.exe
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.xml
+D:\Vb.Net Temp\Lender\Lender\obj\x86\Debug\Lender.pdb
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.exe
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.xml
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.pdb
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmCarCheckClearing.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentEntry.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPosting.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPostingPr.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPR.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmCarRegistrationLedger.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmCTBillingMaster.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmCTLoanManagement.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmCTPosting.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmLoanLedger.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmLoanManagement.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmLoanPosting.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmLoanView.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmPayment.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmReceived.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmSample.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmCarBrand.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmCarColor.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmCarModel.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmCarSerial.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmCarSerialRegistration.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.mdiCarTrade.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentApproval.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentApprovalPR.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentEntry.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentEntryPR.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentReg.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentRegPR.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmCheckClearing.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmCheckReg.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentEntryPR.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentApproval.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentEntry.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentReg.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationApproval.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationEntry.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationReg.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationRelease.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmLRLedger.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmLRMasterReg.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentEntry.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentPosting.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentPostingPR.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentReg.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentRegPR.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.frmReportViewer.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.mdiNorthPoint.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.mdiMain.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.Resources.resources
+\\192.168.10.128\Lender\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+\\192.168.10.12\Lender\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmBillingReg.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmBillingReport.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmCarCheckClearing.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmCarPaymentEntry.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmCarPaymentPosting.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmCarPaymentPostingPr.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmCarPaymentPR.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmCarPaymentPRReg.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmCarPaymentReg.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmCarRegistrationLedger.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmCTBillingMaster.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmCTLoanManagement.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmCTPosting.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLenderReg.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLoanLedger.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLoanManagement.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLoanPosting.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLoanView.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmPayment.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmReceived.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmSample.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmCarBrand.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmCarColor.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmCarModel.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmCarSerial.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmCarSerialRegistration.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.mdiCarTrade.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmARPaymentApproval.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmARPaymentApprovalPR.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmARPaymentEntry.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmARPaymentEntryPR.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmARPaymentReg.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmARPaymentRegPR.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmCheckClearing.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmCheckReg.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLRPaymentEntryPR.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLRAdjustmentApproval.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLRAdjustmentEntry.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLRAdjustmentReg.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLRApplicationApproval.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLRApplicationEntry.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLRApplicationReg.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLRApplicationRelease.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLRLedger.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLRMasterReg.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLRPaymentEntry.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLRPaymentPosting.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLRPaymentPostingPR.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLRPaymentReg.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmLRPaymentRegPR.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.frmReportViewer.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.mdiNorthPoint.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.mdiMain.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.Resources.resources
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.exe
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.xml
+C:\Users\user\Desktop\Lenderxxx\Lender\obj\x86\Debug\Lender.pdb
+\\192.168.10.12\d\GGC_Systems\vb.net\Lender\Lender.exe.config
+\\192.168.10.12\d\Vb.Net Temp\My Projects\Lender\Lender\obj\x86\Debug\Lender.exe
+\\192.168.10.12\d\Vb.Net Temp\My Projects\Lender\Lender\obj\x86\Debug\Lender.xml
+\\192.168.10.12\d\Vb.Net Temp\My Projects\Lender\Lender\obj\x86\Debug\Lender.pdb
+\\192.168.10.12\d\Vb.Net Temp\My Projects\Lender\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmBillingReg.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmBillingReport.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarCheckClearing.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentEntry.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPosting.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPostingPr.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPR.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPRReg.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentReg.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarRegistrationLedger.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmCTBillingMaster.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmCTLoanManagement.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmCTPosting.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLenderReg.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLoanLedger.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLoanManagement.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLoanPosting.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLoanView.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentEntry.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryPR.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryReg.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentPosting.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentPRPosting.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentRegPR.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmPayment.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmReceived.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmReportMenu.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmSample.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarBrand.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarColor.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarModel.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarSerial.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarSerialRegistration.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.mdiCarTrade.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentApproval.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentApprovalPR.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentEntry.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentEntryPR.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentReg.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentRegPR.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmCheckClearing.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmCheckReg.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentEntryPR.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentApproval.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentEntry.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentReg.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationApproval.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationEntry.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationReg.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationRelease.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRLedger.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRMasterReg.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentEntry.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentPosting.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentPostingPR.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentReg.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentRegPR.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.frmReportViewer.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.mdiNorthPoint.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.mdiMain.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.Resources.resources
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.exe
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.xml
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.pdb
+C:\Users\user\Desktop\Lender Updated\Lender\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmBillingReg.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmBillingReport.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmCarCheckClearing.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentEntry.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPosting.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPostingPr.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPR.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPRReg.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentReg.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmCarRegistrationLedger.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmCTBillingMaster.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmCTLoanManagement.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmCTPosting.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLenderReg.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLoanLedger.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLoanManagement.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLoanPosting.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLoanView.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentEntry.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryPR.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryReg.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentPosting.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentPRPosting.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentRegPR.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmPayment.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmReceived.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmReportMenu.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmSample.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmCarBrand.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmCarColor.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmCarModel.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmCarSerial.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmCarSerialRegistration.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.mdiCarTrade.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentApproval.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentApprovalPR.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentEntry.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentEntryPR.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentReg.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentRegPR.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmCheckClearing.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmCheckReg.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentEntryPR.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentApproval.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentEntry.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentReg.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationApproval.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationEntry.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationReg.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationRelease.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLRLedger.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLRMasterReg.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentEntry.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentPosting.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentPostingPR.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentReg.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentRegPR.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.frmReportViewer.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.mdiNorthPoint.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.mdiMain.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.Resources.resources
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.exe
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.xml
+D:\GMC SEG Folder\vb.net\My Projects\Lender\Lender\obj\x86\Debug\Lender.pdb
+\\192.168.10.15\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.exe
+\\192.168.10.15\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.xml
+\\192.168.10.15\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.pdb
+\\192.168.10.15\Group Project\jovan\Lender\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+D:\CarTrade\CarTrade.exe.config
+D:\CarTrade\CarTrade.exe
+D:\CarTrade\CarTrade.pdb
+D:\CarTrade\CarTrade.xml
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmBillingReg.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmBillingReport.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmCarCheckClearing.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmCarPaymentEntry.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmCarPaymentPosting.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmCarPaymentPostingPr.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmCarPaymentPR.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmCarPaymentPRReg.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmCarPaymentReg.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmCarRegistrationLedger.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmCTBillingMaster.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmCTLoanManagement.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmCTPosting.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLenderReg.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLoanLedger.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLoanManagement.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLoanPosting.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLoanView.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmPayment.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmReceived.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmReportMenu.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmSample.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmCarBrand.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmCarColor.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmCarModel.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmCarSerial.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmCarSerialRegistration.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.mdiCarTrade.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmARPaymentApproval.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmARPaymentApprovalPR.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmARPaymentEntry.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmARPaymentEntryPR.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmARPaymentReg.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmARPaymentRegPR.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmCheckClearing.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmCheckReg.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLRPaymentEntryPR.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLRAdjustmentApproval.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLRAdjustmentEntry.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLRAdjustmentReg.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLRApplicationApproval.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLRApplicationEntry.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLRApplicationReg.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLRApplicationRelease.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLRLedger.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLRMasterReg.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLRPaymentEntry.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLRPaymentPosting.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLRPaymentPostingPR.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLRPaymentReg.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmLRPaymentRegPR.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.frmReportViewer.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.mdiNorthPoint.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.Resources.resources
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.exe
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.xml
+E:\Group Project\jovan\Lender\Lender\obj\x86\Debug\CarTrade.pdb
+D:\GGC_Systems\Lender\CarTrade.exe.config
+D:\GGC_Systems\Lender\Lender.exe.config
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+D:\Lender\Lender.exe.config
+D:\Lender\Lender.exe
+D:\Lender\Lender.pdb
+D:\Lender\Lender.xml
+D:\NorthPoint\NorthPoint.exe.config
+D:\NorthPoint\NorthPoint.exe
+D:\NorthPoint\NorthPoint.pdb
+D:\NorthPoint\NorthPoint.xml
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+D:\CarTrade\frmDateCriteria.resx
+D:\CarTrade\frmDateCriteria.Designer.vb
+D:\CarTrade\frmDateCriteria.vb
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmAppApprovalPreview.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmMCCreditApp.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmMPCreditApp.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmMPCreditAppReg.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmMCMasterReg.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmBillingReg.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmBillingReport.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCarApplicationApproval.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCarApplicationEntry.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCarApplicationRelease.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCarCheckClearing.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentEntry.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPosting.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPostingPr.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPR.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPRReg.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentReg.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCarRegistrationLedger.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCTBillingMaster.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCTLoanManagement.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCTPosting.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmLenderReg.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmAutoLedger.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmLoanManagement.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmLoanPosting.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmAutoARReg.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmMPMasterReg.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentEntry.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryPR.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryReg.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentPosting.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentPRPosting.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentRegPR.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmPayment.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmPrintPreview.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmReceived.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmReportMenu.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmSample.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCarBrand.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCarColor.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCarModel.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCarSerial.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCarSerialRegistration.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.mdiCarTrade.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentApproval.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentApprovalPR.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentEntry.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentEntryPR.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentReg.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentRegPR.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCheckClearing.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmCheckReg.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentEntryPR.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentApproval.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentEntry.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentReg.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationApproval.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationEntry.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationReg.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationRelease.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmLRLedger.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmLRMasterReg.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentEntry.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentPosting.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentPostingPR.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentReg.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentRegPR.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmReportViewer.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.mdiMain.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.mdiMobile.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.mdiNorthPoint.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.Resources.resources
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.exe
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.xml
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.pdb
+C:\Users\user\Desktop\jovan\Lender\Lender\obj\x86\Debug\Lender.frmMCModel.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.exe
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.xml
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.pdb
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmAppApprovalPreview.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmMCCreditApp.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmMCModel.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmMPCreditApp.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmMPCreditAppReg.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmMCMasterReg.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmBillingReg.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmBillingReport.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarApplicationApproval.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarApplicationEntry.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarApplicationRelease.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarCheckClearing.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentEntry.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPosting.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPostingPr.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPR.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPRReg.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentReg.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarRegistrationLedger.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCTBillingMaster.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCTLoanManagement.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCTPosting.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmLenderReg.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmAutoLedger.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmLoanManagement.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmLoanPosting.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmAutoARReg.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmMPMasterReg.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentEntry.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryPR.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryReg.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentPosting.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentPRPosting.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentRegPR.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmPayment.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmPrintPreview.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmReceived.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmReportMenu.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmSample.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarBrand.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarColor.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarModel.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarSerial.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCarSerialRegistration.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.mdiCarTrade.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentApproval.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentApprovalPR.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentEntry.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentEntryPR.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentReg.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentRegPR.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCheckClearing.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmCheckReg.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentEntryPR.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentApproval.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentEntry.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentReg.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationApproval.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationEntry.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationReg.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationRelease.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRLedger.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRMasterReg.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentEntry.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentPosting.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentPostingPR.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentReg.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentRegPR.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.frmReportViewer.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.mdiMain.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.mdiMobile.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.mdiNorthPoint.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.Resources.resources
+D:\GMC_SEG_Folder\Updated\Lender\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+C:\GGC_Systems\Lender.exe.config
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmAppApprovalPreview.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmLoadInfo.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmMCCreditAppCategorization.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmMCCreditAppOverride.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmMCCreditAppReview.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmMCCreditApp.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmMCCreditAppQM.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmMCModel.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmMonitor.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmMPCreditApp.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmMPCreditAppReg.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmMCMasterReg.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmBillingReg.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmBillingReport.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCarApplicationApproval.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCarApplicationEntry.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCarApplicationRelease.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCarCheckClearing.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentEntry.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPosting.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPostingPr.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPR.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPRReg.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentReg.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCarRegistrationLedger.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCTBillingMaster.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCTLoanManagement.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCTPosting.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmLenderReg.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmAutoLedger.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmLoanManagement.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmLoanPosting.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmAutoARReg.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmMPMasterReg.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentEntry.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryPR.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryReg.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentPosting.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentPRPosting.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentRegPR.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmPayment.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmPrintPreview.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmQuickMatch.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmReceived.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmReportMenu.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmSample.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCarBrand.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCarColor.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCarModel.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCarSerial.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCarSerialRegistration.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.mdiCarTrade.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentApproval.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentApprovalPR.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentEntry.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentEntryPR.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentReg.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentRegPR.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCheckClearing.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmCheckReg.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentEntryPR.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentApproval.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentEntry.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentReg.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationApproval.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationEntry.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationReg.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationRelease.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmLRLedger.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmLRMasterReg.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentEntry.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentPosting.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentPostingPR.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentReg.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentRegPR.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmReportViewer.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.mdiMain.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.mdiMobile.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.mdiNorthPoint.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.Resources.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmRedeemableItems.resources
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.exe
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.xml
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.pdb
+C:\Users\user\Desktop\Lender\Lender\obj\x86\Debug\Lender.frmMCCreditAppResult.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmAppApprovalPreview.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmLoadInfo.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmMCCreditAppCategorization.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmMCCreditAppOverride.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmMCCreditAppResult.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmMCCreditAppReview.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmMCCreditApp.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmMCCreditAppQM.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmMCModel.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmMonitor.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmMPCreditApp.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmMPCreditAppReg.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmMCMasterReg.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmBillingReg.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmBillingReport.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCarApplicationApproval.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCarApplicationEntry.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCarApplicationRelease.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCarCheckClearing.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentEntry.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPosting.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPostingPr.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPR.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentPRReg.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCarPaymentReg.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCarRegistrationLedger.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCTBillingMaster.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCTLoanManagement.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCTPosting.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmLenderReg.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmAutoLedger.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmLoanManagement.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmLoanPosting.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmAutoARReg.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmMPMasterReg.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentEntry.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryPR.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryReg.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentPosting.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentPRPosting.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmMPPaymentRegPR.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmPayment.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmPrintPreview.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmQuickMatch.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmReceived.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmReportMenu.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmSample.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCarBrand.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCarColor.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCarModel.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCarSerial.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCarSerialRegistration.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.mdiCarTrade.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentApproval.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentApprovalPR.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentEntry.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentEntryPR.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentReg.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmARPaymentRegPR.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCheckClearing.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmCheckReg.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentEntryPR.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentApproval.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentEntry.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmLRAdjustmentReg.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationApproval.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationEntry.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationReg.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmLRApplicationRelease.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmLRLedger.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmLRMasterReg.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentEntry.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentPosting.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentPostingPR.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentReg.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmLRPaymentRegPR.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmReportViewer.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.mdiMain.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.mdiMobile.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.mdiNorthPoint.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.Resources.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.frmRedeemableItems.resources
+D:\GMC_SEG_Folder\Lender\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmAppApprovalPreview.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmLoadInfo.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmMCCreditAppCategorization.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmMCCreditAppOverride.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmMCCreditAppResult.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmMCCreditAppReview.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmMCCreditApp.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmMCCreditAppQM.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmMCModel.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmMonitor.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmMPCreditApp.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmMPCreditAppReg.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmMCMasterReg.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmBillingReg.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmBillingReport.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCarApplicationApproval.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCarApplicationEntry.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCarApplicationRelease.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCarCheckClearing.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCarPaymentEntry.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCarPaymentPosting.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCarPaymentPostingPr.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCarPaymentPR.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCarPaymentPRReg.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCarPaymentReg.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCarRegistrationLedger.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCTBillingMaster.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCTLoanManagement.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCTPosting.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmLenderReg.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmAutoLedger.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmLoanManagement.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmLoanPosting.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmAutoARReg.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmMPMasterReg.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmMPPaymentEntry.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmMPPaymentEntryPR.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmMPPaymentEntryReg.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmMPPaymentPosting.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmMPPaymentPRPosting.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmMPPaymentRegPR.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmPayment.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmPrintPreview.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmQuickMatch.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmReceived.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmReportMenu.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmSample.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCarBrand.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCarColor.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCarModel.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCarSerial.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCarSerialRegistration.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.mdiCarTrade.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmARPaymentApproval.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmARPaymentApprovalPR.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmARPaymentEntry.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmARPaymentEntryPR.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmARPaymentReg.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmARPaymentRegPR.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCheckClearing.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmCheckReg.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmLRPaymentEntryPR.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmLRAdjustmentApproval.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmLRAdjustmentEntry.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmLRAdjustmentReg.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmLRApplicationApproval.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmLRApplicationEntry.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmLRApplicationReg.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmLRApplicationRelease.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmLRLedger.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmLRMasterReg.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmLRPaymentEntry.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmLRPaymentPosting.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmLRPaymentPostingPR.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmLRPaymentReg.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmLRPaymentRegPR.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmReportViewer.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.mdiMain.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.mdiMobile.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.mdiNorthPoint.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.Resources.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.frmRedeemableItems.resources
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.exe
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.xml
+C:\Users\user\Desktop\New\Lender\Lender\obj\x86\Debug\Evaluator.pdb
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmAppApprovalPreview.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmLoadInfo.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmMCCreditAppCategorization.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmMCCreditAppOverride.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmMCCreditAppResult.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmMCCreditAppReview.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmMCCreditApp.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmMCCreditAppQM.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmMCModel.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmMonitor.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmMPCreditApp.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmMPCreditAppReg.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmMCMasterReg.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmBillingReg.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmBillingReport.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCarApplicationApproval.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCarApplicationEntry.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCarApplicationRelease.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCarCheckClearing.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCarPaymentEntry.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCarPaymentPosting.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCarPaymentPostingPr.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCarPaymentPR.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCarPaymentPRReg.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCarPaymentReg.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCarRegistrationLedger.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCTBillingMaster.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCTLoanManagement.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCTPosting.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmLenderReg.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmAutoLedger.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmLoanManagement.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmLoanPosting.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmAutoARReg.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmMPMasterReg.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmMPPaymentEntry.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmMPPaymentEntryPR.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmMPPaymentEntryReg.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmMPPaymentPosting.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmMPPaymentPRPosting.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmMPPaymentRegPR.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmPayment.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmPrintPreview.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmQuickMatch.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmReceived.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmReportMenu.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmSample.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCarBrand.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCarColor.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCarModel.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCarSerial.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCarSerialRegistration.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.mdiCarTrade.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmARPaymentApproval.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmARPaymentApprovalPR.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmARPaymentEntry.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmARPaymentEntryPR.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmARPaymentReg.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmARPaymentRegPR.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCheckClearing.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmCheckReg.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmLRPaymentEntryPR.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmLRAdjustmentApproval.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmLRAdjustmentEntry.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmLRAdjustmentReg.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmLRApplicationApproval.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmLRApplicationEntry.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmLRApplicationReg.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmLRApplicationRelease.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmLRLedger.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmLRMasterReg.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmLRPaymentEntry.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmLRPaymentPosting.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmLRPaymentPostingPR.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmLRPaymentReg.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmLRPaymentRegPR.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmReportViewer.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.mdiMain.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.mdiMobile.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.mdiNorthPoint.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.Resources.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.frmRedeemableItems.resources
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.exe
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.xml
+C:\Users\user\Desktop\Lender\obj\x86\Debug\Evaluator.pdb
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmAppApprovalPreview.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmLoadInfo.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmMCCreditAppCategorization.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmMCCreditAppOverride.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmMCCreditAppResult.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmMCCreditAppReview.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmMCCreditApp.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmMCCreditAppQM.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmMCModel.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmMonitor.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmMPCreditApp.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmMPCreditAppReg.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmMCMasterReg.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmBillingReg.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmBillingReport.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCarApplicationApproval.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCarApplicationEntry.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCarApplicationRelease.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCarCheckClearing.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCarPaymentEntry.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCarPaymentPosting.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCarPaymentPostingPr.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCarPaymentPR.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCarPaymentPRReg.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCarPaymentReg.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCarRegistrationLedger.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCTBillingMaster.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCTLoanManagement.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCTPosting.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmLenderReg.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmAutoLedger.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmLoanManagement.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmLoanPosting.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmAutoARReg.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmMPMasterReg.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmMPPaymentEntry.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmMPPaymentEntryPR.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmMPPaymentEntryReg.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmMPPaymentPosting.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmMPPaymentPRPosting.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmMPPaymentRegPR.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmPayment.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmPrintPreview.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmQuickMatch.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmReceived.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmReportMenu.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmSample.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCarBrand.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCarColor.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCarModel.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCarSerial.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCarSerialRegistration.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.mdiCarTrade.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmARPaymentApproval.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmARPaymentApprovalPR.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmARPaymentEntry.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmARPaymentEntryPR.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmARPaymentReg.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmARPaymentRegPR.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCheckClearing.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmCheckReg.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmLRPaymentEntryPR.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmLRAdjustmentApproval.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmLRAdjustmentEntry.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmLRAdjustmentReg.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmLRApplicationApproval.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmLRApplicationEntry.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmLRApplicationReg.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmLRApplicationRelease.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmLRLedger.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmLRMasterReg.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmLRPaymentEntry.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmLRPaymentPosting.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmLRPaymentPostingPR.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmLRPaymentReg.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmLRPaymentRegPR.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmReportViewer.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.mdiMain.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.mdiMobile.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.mdiNorthPoint.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.Resources.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmRedeemableItems.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmDateCriteria.resources
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Evaluator.frmPaymentPartners.resources
+D:\GGC_Systems\vb.net\Lending.exe.config
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lending.exe
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lending.xml
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lending.pdb
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationHistory.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationApproval.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAppApprovalPreview.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmDateCriteria.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoadInfo.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppCategorization.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppOverride.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppResult.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppReview.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditApp.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppQM.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCModel.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMonitor.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditApp.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditAppReg.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCMasterReg.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmBillingReg.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmBillingReport.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationApprovalold.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationEntry.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationRelease.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarCheckClearing.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentEntry.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPosting.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPostingPr.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPR.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPRReg.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentReg.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarRegistrationLedger.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTBillingMaster.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTLoanManagement.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTPosting.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLenderReg.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAutoLedger.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoanManagement.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoanPosting.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAutoARReg.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPMasterReg.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntry.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryPR.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryReg.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentPosting.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentPRPosting.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentRegPR.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPayment.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPaymentPartners.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPrintPreview.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmQuickMatch.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReceived.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReportMenu.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmSample.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarBrand.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarColor.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarModel.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarSerial.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarSerialRegistration.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiCarTrade.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentApproval.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentApprovalPR.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentEntry.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentEntryPR.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentReg.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentRegPR.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCheckClearing.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCheckReg.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentEntryPR.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentApproval.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentEntry.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentReg.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationApproval.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationEntry.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationReg.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationRelease.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRLedger.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRMasterReg.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentEntry.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentPosting.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentPostingPR.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentReg.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentRegPR.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReportViewer.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiMain.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiMobile.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiNorthPoint.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.Resources.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmRedeemableItems.resources
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.exe
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.xml
+D:\vb.net\My Projects\Lender\obj\x86\Debug\Lender.pdb
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.exe
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.xml
+X:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.pdb
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditAppHistory.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppHistory.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationHistory.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationApproval.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAppApprovalPreview.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmDateCriteria.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoadInfo.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppCategorization.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppOverride.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppResult.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppReview.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditApp.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppQM.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCModel.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMonitor.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditApp.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditAppReg.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCMasterReg.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmBillingReg.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmBillingReport.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationApprovalold.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationEntry.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationRelease.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarCheckClearing.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentEntry.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPosting.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPostingPr.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPR.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPRReg.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentReg.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarRegistrationLedger.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTBillingMaster.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTLoanManagement.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTPosting.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLenderReg.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAutoLedger.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoanManagement.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoanPosting.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAutoARReg.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPMasterReg.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntry.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryPR.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryReg.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentPosting.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentPRPosting.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentRegPR.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPayment.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPaymentPartners.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPrintPreview.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmQuickMatch.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReceived.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReportMenu.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmSample.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarBrand.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarColor.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarModel.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarSerial.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarSerialRegistration.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiCarTrade.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentApproval.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentApprovalPR.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentEntry.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentEntryPR.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentReg.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentRegPR.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCheckClearing.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCheckReg.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentEntryPR.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentApproval.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentEntry.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentReg.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationApproval.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationEntry.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationReg.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationRelease.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRLedger.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRMasterReg.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentEntry.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentPosting.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentPostingPR.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentReg.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentRegPR.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReportViewer.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiMain.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiMobile.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiNorthPoint.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.Resources.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmRedeemableItems.resources
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.exe
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.xml
+Y:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.pdb
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditAppHistory.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppHistory.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationHistory.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationApproval.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAppApprovalPreview.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmDateCriteria.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoadInfo.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppCategorization.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppOverride.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppResult.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppReview.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditApp.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppQM.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCModel.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMonitor.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditApp.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditAppReg.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCMasterReg.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmBillingReg.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmBillingReport.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationApprovalold.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationEntry.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationRelease.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarCheckClearing.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentEntry.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPosting.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPostingPr.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPR.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPRReg.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentReg.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarRegistrationLedger.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTBillingMaster.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTLoanManagement.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTPosting.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLenderReg.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAutoLedger.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoanManagement.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoanPosting.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAutoARReg.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPMasterReg.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntry.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryPR.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryReg.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentPosting.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentPRPosting.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentRegPR.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPayment.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPaymentPartners.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPrintPreview.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmQuickMatch.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReceived.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReportMenu.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmSample.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarBrand.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarColor.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarModel.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarSerial.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarSerialRegistration.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiCarTrade.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentApproval.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentApprovalPR.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentEntry.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentEntryPR.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentReg.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentRegPR.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCheckClearing.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCheckReg.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentEntryPR.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentApproval.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentEntry.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentReg.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationApproval.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationEntry.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationReg.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationRelease.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRLedger.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRMasterReg.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentEntry.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentPosting.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentPostingPR.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentReg.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentRegPR.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReportViewer.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiMain.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiMobile.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiNorthPoint.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.Resources.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmRedeemableItems.resources
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.exe
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.xml
+\\192.168.10.12\d\vb.net\My Projects\Lender\obj\x86\Debug\Lender.pdb
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationTransfer.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditAppHistory.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppHistory.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationHistory.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationApproval.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAppApprovalPreview.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmDateCriteria.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoadInfo.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppCategorization.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppOverride.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppResult.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppReview.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditApp.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppQM.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCModel.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMonitor.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditApp.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditAppReg.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCMasterReg.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmBillingReg.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmBillingReport.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationApprovalold.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationEntry.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationRelease.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarCheckClearing.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentEntry.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPosting.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPostingPr.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPR.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPRReg.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentReg.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarRegistrationLedger.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTBillingMaster.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTLoanManagement.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTPosting.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLenderReg.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAutoLedger.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoanManagement.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoanPosting.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAutoARReg.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPMasterReg.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntry.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryPR.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryReg.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentPosting.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentPRPosting.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentRegPR.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPayment.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPaymentPartners.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPrintPreview.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmQuickMatch.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReceived.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReportMenu.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmSample.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarBrand.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarColor.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarModel.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarSerial.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarSerialRegistration.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiCarTrade.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentApproval.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentApprovalPR.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentEntry.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentEntryPR.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentReg.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentRegPR.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCheckClearing.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCheckReg.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentEntryPR.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentApproval.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentEntry.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentReg.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationApproval.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationEntry.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationReg.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationRelease.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRLedger.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRMasterReg.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentEntry.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentPosting.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentPostingPR.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentReg.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentRegPR.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReportViewer.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiMain.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiMobile.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.Resources.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmRedeemableItems.resources
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.exe
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.xml
+\\fs2\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.pdb
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.FrmCITagging.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCITaggingViewing.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationTransfer.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditAppHistory.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppHistory.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationHistory.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationApproval.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAppApprovalPreview.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmDateCriteria.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoadInfo.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppCategorization.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppOverride.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppResult.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppReview.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditApp.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppQM.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCModel.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMonitor.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditApp.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditAppReg.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCMasterReg.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmBillingReg.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmBillingReport.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationApprovalold.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationEntry.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationRelease.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarCheckClearing.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentEntry.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPosting.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPostingPr.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPR.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPRReg.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentReg.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarRegistrationLedger.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTBillingMaster.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTLoanManagement.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTPosting.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLenderReg.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAutoLedger.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoanManagement.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoanPosting.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAutoARReg.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPMasterReg.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntry.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryPR.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryReg.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentPosting.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentPRPosting.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentRegPR.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPayment.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPaymentPartners.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPrintPreview.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmQuickMatch.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReceived.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReportMenu.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmSample.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarBrand.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarColor.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarModel.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarSerial.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarSerialRegistration.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiCarTrade.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentApproval.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentApprovalPR.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentEntry.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentEntryPR.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentReg.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentRegPR.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCheckClearing.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCheckReg.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentEntryPR.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentApproval.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentEntry.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentReg.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationApproval.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationEntry.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationReg.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationRelease.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRLedger.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRMasterReg.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentEntry.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentPosting.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentPostingPR.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentReg.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentRegPR.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReportViewer.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiMain.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiMobile.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.Resources.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmRedeemableItems.resources
+\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.FrmCITagging.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCITaggingViewing.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmEPay.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationTransfer.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMarketplace.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMarketplaceHistory.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditAppHistory.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppHistory.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationHistory.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationApproval.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAppApprovalPreview.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmDateCriteria.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoadInfo.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppCategorization.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppOverride.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppResult.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppReview.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditApp.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppQM.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCModel.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMonitor.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditApp.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditAppReg.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCMasterReg.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmBillingReg.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmBillingReport.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationApprovalold.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationEntry.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationRelease.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarCheckClearing.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentEntry.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPosting.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPostingPr.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPR.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPRReg.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentReg.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarRegistrationLedger.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTBillingMaster.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTLoanManagement.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTPosting.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLenderReg.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAutoLedger.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoanManagement.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoanPosting.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAutoARReg.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPMasterReg.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntry.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryPR.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryReg.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentPosting.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentPRPosting.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentRegPR.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPayment.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPaymentPartners.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPrintPreview.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmQuickMatch.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReceived.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReportMenu.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmSample.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarBrand.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarColor.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarModel.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarSerial.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarSerialRegistration.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiCarTrade.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentApproval.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentApprovalPR.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentEntry.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentEntryPR.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentReg.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentRegPR.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCheckClearing.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCheckReg.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentEntryPR.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentApproval.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentEntry.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentReg.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationApproval.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationEntry.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationReg.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationRelease.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRLedger.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRMasterReg.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentEntry.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentPosting.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentPostingPR.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentReg.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentRegPR.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReportViewer.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiMain.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiMobile.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.Resources.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmRedeemableItems.resources
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.exe
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.xml
+Z:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.pdb
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbprojResolveAssemblyReference.cache
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.FrmCITagging.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCITaggingViewing.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmEPay.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationTransfer.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMarketplace.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMarketplaceHistory.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditAppHistory.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppHistory.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationHistory.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationApproval.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAppApprovalPreview.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmDateCriteria.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoadInfo.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppCategorization.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppOverride.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppResult.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppReview.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditApp.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppQM.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCModel.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMonitor.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditApp.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditAppReg.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCMasterReg.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmBillingReg.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmBillingReport.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationApprovalold.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationEntry.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationRelease.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarCheckClearing.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentEntry.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPosting.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPostingPr.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPR.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPRReg.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentReg.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarRegistrationLedger.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTBillingMaster.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTLoanManagement.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTPosting.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLenderReg.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAutoLedger.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoanManagement.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoanPosting.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAutoARReg.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPMasterReg.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntry.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryPR.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryReg.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentPosting.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentPRPosting.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentRegPR.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPayment.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPaymentPartners.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPrintPreview.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmQuickMatch.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReceived.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReportMenu.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmSample.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarBrand.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarColor.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarModel.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarSerial.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarSerialRegistration.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiCarTrade.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentApproval.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentApprovalPR.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentEntry.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentEntryPR.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentReg.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentRegPR.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCheckClearing.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCheckReg.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentEntryPR.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentApproval.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentEntry.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentReg.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationApproval.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationEntry.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationReg.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationRelease.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRLedger.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRMasterReg.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentEntry.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentPosting.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentPostingPR.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentReg.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentRegPR.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReportViewer.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiMain.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiMobile.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.Resources.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmRedeemableItems.resources
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.Cache
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.exe
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.xml
+U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.pdb
