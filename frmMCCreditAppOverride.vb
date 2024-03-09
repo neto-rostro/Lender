@@ -186,6 +186,7 @@ Public Class frmMCCreditAppOverride
                         MsgBox("User is not allowed to OVERRIDE an application.", vbCritical, "Error")
                         Exit Sub
                     End If
+                    initButton(1)
                 Case 2 'Disapprove Application
                     'mac 2021.06.16
                     If IsDBNull(p_oTrans.Master("sTransNox")) Or txtField00.Text = "" Or IsDBNull(p_oTrans.Master("sGOCASNox")) Then
@@ -238,6 +239,16 @@ Public Class frmMCCreditAppOverride
                     End If
                 Case 14
                     showResult()
+                Case 15
+                    If MsgBox("Do you want to void this credit application?", MsgBoxStyle.Information + MsgBoxStyle.OkCancel, "Confirmation") = MsgBoxResult.Ok Then
+                        If p_oTrans.CancelTransaction Then
+                            MsgBox("Credit Application successfully voided!!", vbInformation, "Information")
+                            Call p_oTrans.NewTransaction()
+                            ClearFields(Me.Panel1)
+                            ClearFields(Me.Panel2)
+                            initButton(0)
+                        End If
+                    End If
                 Case 25
                     If txtField00.Text = "" Then Exit Sub
 

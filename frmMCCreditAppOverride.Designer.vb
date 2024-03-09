@@ -209,6 +209,7 @@ Partial Class frmMCCreditAppOverride
         Me.Label91 = New System.Windows.Forms.Label()
         Me.tabPage07 = New System.Windows.Forms.TabPage()
         Me.dgv01 = New System.Windows.Forms.DataGridView()
+        Me.cmdButton15 = New System.Windows.Forms.Button()
         Me.Panel3.SuspendLayout()
         Me.Panel2.SuspendLayout()
         Me.Panel1.SuspendLayout()
@@ -233,6 +234,7 @@ Partial Class frmMCCreditAppOverride
         'Panel3
         '
         Me.Panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Panel3.Controls.Add(Me.cmdButton15)
         Me.Panel3.Controls.Add(Me.cmdButton25)
         Me.Panel3.Controls.Add(Me.cmdButton02)
         Me.Panel3.Controls.Add(Me.cmdButton14)
@@ -250,7 +252,7 @@ Partial Class frmMCCreditAppOverride
         '
         Me.cmdButton25.Image = Global.Lender.My.Resources.Resources.browsing
         Me.cmdButton25.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton25.Location = New System.Drawing.Point(3, 166)
+        Me.cmdButton25.Location = New System.Drawing.Point(3, 207)
         Me.cmdButton25.Name = "cmdButton25"
         Me.cmdButton25.Size = New System.Drawing.Size(78, 41)
         Me.cmdButton25.TabIndex = 76
@@ -275,7 +277,7 @@ Partial Class frmMCCreditAppOverride
         '
         Me.cmdButton14.Image = Global.Lender.My.Resources.Resources.ledger
         Me.cmdButton14.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton14.Location = New System.Drawing.Point(3, 125)
+        Me.cmdButton14.Location = New System.Drawing.Point(3, 166)
         Me.cmdButton14.Name = "cmdButton14"
         Me.cmdButton14.Size = New System.Drawing.Size(78, 41)
         Me.cmdButton14.TabIndex = 68
@@ -287,7 +289,7 @@ Partial Class frmMCCreditAppOverride
         '
         Me.cmdButton00.Image = Global.Lender.My.Resources.Resources._exit
         Me.cmdButton00.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton00.Location = New System.Drawing.Point(3, 207)
+        Me.cmdButton00.Location = New System.Drawing.Point(3, 248)
         Me.cmdButton00.Name = "cmdButton00"
         Me.cmdButton00.Size = New System.Drawing.Size(78, 41)
         Me.cmdButton00.TabIndex = 63
@@ -2435,6 +2437,18 @@ Partial Class frmMCCreditAppOverride
         Me.dgv01.Size = New System.Drawing.Size(722, 180)
         Me.dgv01.TabIndex = 1
         '
+        'cmdButton15
+        '
+        Me.cmdButton15.Image = Global.Lender.My.Resources.Resources.void
+        Me.cmdButton15.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.cmdButton15.Location = New System.Drawing.Point(3, 125)
+        Me.cmdButton15.Name = "cmdButton15"
+        Me.cmdButton15.Size = New System.Drawing.Size(78, 41)
+        Me.cmdButton15.TabIndex = 77
+        Me.cmdButton15.TabStop = False
+        Me.cmdButton15.Text = "  &Void"
+        Me.cmdButton15.UseVisualStyleBackColor = True
+        '
         'frmMCCreditAppOverride
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -2447,7 +2461,7 @@ Partial Class frmMCCreditAppOverride
         Me.KeyPreview = True
         Me.Name = "frmMCCreditAppOverride"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "Credit Scoring History"
+        Me.Text = "Credit Scoring - Motorcycle History"
         Me.Panel3.ResumeLayout(False)
         Me.Panel2.ResumeLayout(False)
         Me.Panel2.PerformLayout()
@@ -2667,4 +2681,5 @@ Partial Class frmMCCreditAppOverride
     Friend WithEvents Label1 As System.Windows.Forms.Label
     Friend WithEvents cmdButton02 As System.Windows.Forms.Button
     Friend WithEvents cmdButton25 As System.Windows.Forms.Button
+    Friend WithEvents cmdButton15 As Button
 End Class
