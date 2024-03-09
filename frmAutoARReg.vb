@@ -223,7 +223,13 @@ Public Class frmAutoARReg
                 End If
                 txtOther02.Text = Format(Val(p_oTrans.Master("nInterest")) / Val(p_oTrans.Master("nAcctTerm")), xsDECIMAL)
                 'txtOther01.Text = Format(Val(p_oTrans.Master("nMonAmort")), xsDECIMAL)
-                txtOther01.Text = Format(Math.Floor(Val(p_oTrans.Master("nMonAmort")) + Val(p_oTrans.Master("nInterest")) + Val(p_oTrans.Master("nRebTotlx")) / Val(p_oTrans.Master("nAcctTerm"))), xsDECIMAL)
+
+                Dim lsMon As String
+                lsMon = Format(Math.Round(Val(p_oTrans.Master("nMonAmort")) + Val(p_oTrans.Master("nInterest")) / Val(p_oTrans.Master("nAcctTerm")) + Val(p_oTrans.Master("nRebatesx"))), xsDECIMAL)
+                'txtOther01.Text = Format(Val(p_oTrans.Master("nMonAmort")) + Val(p_oTrans.Master("nInterest")) / Val(p_oTrans.Master("nAcctTerm")) + Val(p_oTrans.Master("nRebatesx")), "#,##0.00")
+                txtOther01.Text = lsMon
+
+                'txtOther01.Text = Format(Math.Floor(Val(p_oTrans.Master("nMonAmort")) + Val(p_oTrans.Master("nInterest")) + Val(p_oTrans.Master("nRebTotlx")) / Val(p_oTrans.Master("nAcctTerm"))), xsDECIMAL)
                 'mac 2020.08.28
                 '   display PN Value
                 '   PNValue = Principal Amount + Interest Amount

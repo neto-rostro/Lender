@@ -103,6 +103,8 @@ Partial Class mdiMain
         Me.EntryToolStripMenuItem6 = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStripSeparator18 = New System.Windows.Forms.ToolStripSeparator()
         Me.PostingConfirmationToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ToolStripSeparator45 = New System.Windows.Forms.ToolStripSeparator()
+        Me.RaffleEntryScannerToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStripSeparator9 = New System.Windows.Forms.ToolStripSeparator()
         Me.ChecksReceivedClearingToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.LRMCCheckToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -114,7 +116,6 @@ Partial Class mdiMain
         Me.LoanApplicationToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MPCreditApplicationToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MCCreditApplicationToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.CreditApplicationMarketplaceToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.EvaluatorToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.CollectorToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.AdministratorToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
@@ -155,6 +156,8 @@ Partial Class mdiMain
         Me.ReportsToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.StandardToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
+        Me.MotorcycleToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
+        Me.MobilePhoneToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -321,7 +324,7 @@ Partial Class mdiMain
         '
         'TransactionToolStripMenuItem
         '
-        Me.TransactionToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.LRApplicationToolStripMenuItem, Me.ToolStripSeparator41, Me.ToolStripMenuItem1, Me.ToolStripSeparator2, Me.AdjustmentToolStripMenuItem, Me.ToolStripSeparator4, Me.LRPaymentToolStripMenuItem1, Me.ToolStripSeparator8, Me.InHousePaymentToolStripMenuItem, Me.ToolStripSeparator5, Me.ToolStripMenuItem2, Me.ToolStripSeparator7, Me.PRPaymentsToolStripMenuItem, Me.ToolStripSeparator9, Me.ChecksReceivedClearingToolStripMenuItem, Me.ToolStripSeparator43, Me.PaymentPartnersToolStripMenuItem, Me.ToolStripSeparator44, Me.LoanApplicationToolStripMenuItem, Me.CreditApplicationMarketplaceToolStripMenuItem, Me.EvaluatorToolStripMenuItem, Me.CollectorToolStripMenuItem})
+        Me.TransactionToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.LRApplicationToolStripMenuItem, Me.ToolStripSeparator41, Me.ToolStripMenuItem1, Me.ToolStripSeparator2, Me.AdjustmentToolStripMenuItem, Me.ToolStripSeparator4, Me.LRPaymentToolStripMenuItem1, Me.ToolStripSeparator8, Me.InHousePaymentToolStripMenuItem, Me.ToolStripSeparator5, Me.ToolStripMenuItem2, Me.ToolStripSeparator7, Me.PRPaymentsToolStripMenuItem, Me.ToolStripSeparator45, Me.RaffleEntryScannerToolStripMenuItem, Me.ToolStripSeparator9, Me.ChecksReceivedClearingToolStripMenuItem, Me.ToolStripSeparator43, Me.PaymentPartnersToolStripMenuItem, Me.ToolStripSeparator44, Me.LoanApplicationToolStripMenuItem, Me.EvaluatorToolStripMenuItem, Me.CollectorToolStripMenuItem})
         Me.TransactionToolStripMenuItem.Name = "TransactionToolStripMenuItem"
         Me.TransactionToolStripMenuItem.Size = New System.Drawing.Size(79, 20)
         Me.TransactionToolStripMenuItem.Text = "Transaction"
@@ -629,6 +632,17 @@ Partial Class mdiMain
         Me.PostingConfirmationToolStripMenuItem1.Size = New System.Drawing.Size(190, 22)
         Me.PostingConfirmationToolStripMenuItem1.Text = "Posting/Confirmation"
         '
+        'ToolStripSeparator45
+        '
+        Me.ToolStripSeparator45.Name = "ToolStripSeparator45"
+        Me.ToolStripSeparator45.Size = New System.Drawing.Size(243, 6)
+        '
+        'RaffleEntryScannerToolStripMenuItem
+        '
+        Me.RaffleEntryScannerToolStripMenuItem.Name = "RaffleEntryScannerToolStripMenuItem"
+        Me.RaffleEntryScannerToolStripMenuItem.Size = New System.Drawing.Size(246, 22)
+        Me.RaffleEntryScannerToolStripMenuItem.Text = "Raffle Entry Scanner"
+        '
         'ToolStripSeparator9
         '
         Me.ToolStripSeparator9.Name = "ToolStripSeparator9"
@@ -693,17 +707,12 @@ Partial Class mdiMain
         Me.MCCreditApplicationToolStripMenuItem.Size = New System.Drawing.Size(192, 22)
         Me.MCCreditApplicationToolStripMenuItem.Text = "MC Credit Application"
         '
-        'CreditApplicationMarketplaceToolStripMenuItem
-        '
-        Me.CreditApplicationMarketplaceToolStripMenuItem.Name = "CreditApplicationMarketplaceToolStripMenuItem"
-        Me.CreditApplicationMarketplaceToolStripMenuItem.Size = New System.Drawing.Size(246, 22)
-        Me.CreditApplicationMarketplaceToolStripMenuItem.Text = "Credit Application - Marketplace"
-        '
         'EvaluatorToolStripMenuItem
         '
+        Me.EvaluatorToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.MotorcycleToolStripMenuItem1, Me.MobilePhoneToolStripMenuItem1})
         Me.EvaluatorToolStripMenuItem.Name = "EvaluatorToolStripMenuItem"
         Me.EvaluatorToolStripMenuItem.Size = New System.Drawing.Size(246, 22)
-        Me.EvaluatorToolStripMenuItem.Text = "Credit Scoring Evaluator"
+        Me.EvaluatorToolStripMenuItem.Text = "Credit Scoring"
         '
         'CollectorToolStripMenuItem
         '
@@ -873,7 +882,7 @@ Partial Class mdiMain
         '
         'CreditAppToolStripMenuItem
         '
-        Me.CreditAppToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.TabletToolStripMenuItem, Me.CarToolStripMenuItem, Me.WebToolStripMenuItem, Me.MarketplaceToolStripMenuItem})
+        Me.CreditAppToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.TabletToolStripMenuItem, Me.MarketplaceToolStripMenuItem, Me.CarToolStripMenuItem, Me.WebToolStripMenuItem})
         Me.CreditAppToolStripMenuItem.Name = "CreditAppToolStripMenuItem"
         Me.CreditAppToolStripMenuItem.Size = New System.Drawing.Size(208, 22)
         Me.CreditAppToolStripMenuItem.Text = "Credit Online Application"
@@ -881,14 +890,14 @@ Partial Class mdiMain
         'TabletToolStripMenuItem
         '
         Me.TabletToolStripMenuItem.Name = "TabletToolStripMenuItem"
-        Me.TabletToolStripMenuItem.Size = New System.Drawing.Size(139, 22)
-        Me.TabletToolStripMenuItem.Text = "Tablet"
+        Me.TabletToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.TabletToolStripMenuItem.Text = "Motorcycle"
         '
         'CarToolStripMenuItem
         '
         Me.CarToolStripMenuItem.Name = "CarToolStripMenuItem"
-        Me.CarToolStripMenuItem.Size = New System.Drawing.Size(139, 22)
-        Me.CarToolStripMenuItem.Text = "Car"
+        Me.CarToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.CarToolStripMenuItem.Text = "Cars"
         '
         'WebToolStripMenuItem
         '
@@ -912,8 +921,8 @@ Partial Class mdiMain
         'MarketplaceToolStripMenuItem
         '
         Me.MarketplaceToolStripMenuItem.Name = "MarketplaceToolStripMenuItem"
-        Me.MarketplaceToolStripMenuItem.Size = New System.Drawing.Size(139, 22)
-        Me.MarketplaceToolStripMenuItem.Text = "Marketplace"
+        Me.MarketplaceToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.MarketplaceToolStripMenuItem.Text = "Mobile Phone"
         '
         'ReportsToolStripMenuItem
         '
@@ -932,6 +941,18 @@ Partial Class mdiMain
         '
         Me.Timer1.Enabled = True
         Me.Timer1.Interval = 1000
+        '
+        'MotorcycleToolStripMenuItem1
+        '
+        Me.MotorcycleToolStripMenuItem1.Name = "MotorcycleToolStripMenuItem1"
+        Me.MotorcycleToolStripMenuItem1.Size = New System.Drawing.Size(180, 22)
+        Me.MotorcycleToolStripMenuItem1.Text = "Motorcycle"
+        '
+        'MobilePhoneToolStripMenuItem1
+        '
+        Me.MobilePhoneToolStripMenuItem1.Name = "MobilePhoneToolStripMenuItem1"
+        Me.MobilePhoneToolStripMenuItem1.Size = New System.Drawing.Size(180, 22)
+        Me.MobilePhoneToolStripMenuItem1.Text = "Mobile Phone"
         '
         'mdiMain
         '
@@ -1083,7 +1104,9 @@ Partial Class mdiMain
     Friend WithEvents MotorcycleToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents MobilePhoneToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents LRApplicationTransferToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
-    Friend WithEvents CreditApplicationMarketplaceToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents MarketplaceToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
-
+    Friend WithEvents ToolStripSeparator45 As ToolStripSeparator
+    Friend WithEvents RaffleEntryScannerToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents MotorcycleToolStripMenuItem1 As ToolStripMenuItem
+    Friend WithEvents MobilePhoneToolStripMenuItem1 As ToolStripMenuItem
 End Class

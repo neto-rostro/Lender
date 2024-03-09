@@ -641,7 +641,6 @@ Public Class mdiMain
         Select Case p_isEvaluator
             Case "0"
                 EvaluatorToolStripMenuItem.Visible = False
-                CreditApplicationMarketplaceToolStripMenuItem.Visible = False
             Case "1"
                 CollectorToolStripMenuItem.Visible = False
             Case ""
@@ -650,7 +649,6 @@ Public Class mdiMain
                 TabletToolStripMenuItem.Visible = False
                 LoanApplicationToolStripMenuItem.Visible = False
                 ToolStripSeparator44.Visible = False
-                CreditApplicationMarketplaceToolStripMenuItem.Visible = False
         End Select
 
         'mac 2020-07-25
@@ -661,11 +659,7 @@ Public Class mdiMain
     End Sub
 
     Private Sub EvaluatorToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles EvaluatorToolStripMenuItem.Click
-        If p_ofrmEvaluator Is Nothing Then
-            p_ofrmEvaluator = New frmMCCreditAppCategorization
-        End If
-        showModalForm(p_ofrmEvaluator, Me)
-        p_ofrmEvaluator = Nothing
+
     End Sub
 
     Private Sub CollectorToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CollectorToolStripMenuItem.Click
@@ -712,12 +706,8 @@ Public Class mdiMain
         showModalForm(FrmCITagging, Me)
     End Sub
 
-    Private Sub CreditApplicationMarketplaceToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles CreditApplicationMarketplaceToolStripMenuItem.Click
-        If p_ofrmMarketplaceCreditApp Is Nothing Then
-            p_ofrmMarketplaceCreditApp = New frmMarketplace
-        End If
-        showModalForm(p_ofrmMarketplaceCreditApp, Me)
-        p_ofrmMarketplaceCreditApp = Nothing
+    Private Sub CreditApplicationMarketplaceToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+
     End Sub
 
     Private Sub MarketplaceToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MarketplaceToolStripMenuItem.Click
@@ -726,5 +716,72 @@ Public Class mdiMain
         End If
         showModalForm(p_ofrmMarketplaceCreditAppHistory, Me)
         p_ofrmMarketplaceCreditAppHistory = Nothing
+    End Sub
+
+    Private Sub RaffleEntryScannerToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles RaffleEntryScannerToolStripMenuItem.Click
+        loadRaffle()
+    End Sub
+    Private Function loadRaffle() As Boolean
+        Dim lsProcName As String
+        Dim lsDIR As String
+        Dim lsApplication As String
+        Dim lsFileName As String
+        Dim lsArguments As String
+        Dim lnResult As Long
+        Dim loRS As DataTable
+
+        lsProcName = "loadRaffle"
+        On Error GoTo errProc
+
+
+
+        If My.Computer.FileSystem.DirectoryExists("D:\GGC_Java_Systems") Then
+            lsDIR = "D:\GGC_Java_Systems"
+        Else
+            MsgBox("Unable to fount path GGC_JavaSystems " & vbCrLf & vbCrLf &
+                    "Please inform MIS", vbInformation, "Notice")
+
+        End If
+
+        lsFileName = "readpanalo.bat"
+        lsApplication = p_oAppDriver.ProductID.ToString
+        lsArguments = lsApplication + " " + p_oAppDriver.UserID.ToString
+
+
+        lnResult = RMJExecuteL(lsDIR, lsFileName, lsArguments)
+
+        If lnResult = 1 Then
+            MsgBox("Unable to Retreive/Create QR Raffle Entry  " & vbCrLf & vbCrLf &
+                    "Please Inform MIS ", vbInformation, "Notice")
+            loadRaffle = False
+        ElseIf lnResult = 0 Then
+            loadRaffle = True
+            MsgBox("Raffle entry created successfully." & vbCrLf & vbCrLf &
+                   "The customer should expect a notification regarding his raffle coupons on his Guanzon Connect within the day. Thank you. ", vbInformation, "Notice")
+        Else
+            MsgBox("Scanning Failed !! Please try Again. !!", vbInformation, "Notice")
+            loadRaffle = False
+        End If
+endProc:
+        loRS = Nothing
+        Exit Function
+errProc:
+        'ShowError(lsProcName)
+    End Function
+
+    Private Sub MotorcycleToolStripMenuItem1_Click(sender As Object, e As EventArgs) Handles MotorcycleToolStripMenuItem1.Click
+        If p_ofrmEvaluator Is Nothing Then
+            p_ofrmEvaluator = New frmMCCreditAppCategorization
+        End If
+        showModalForm(p_ofrmEvaluator, Me)
+        p_ofrmEvaluator = Nothing
+    End Sub
+
+    Private Sub MobilePhoneToolStripMenuItem1_Click(sender As Object, e As EventArgs) Handles MobilePhoneToolStripMenuItem1.Click
+        If p_ofrmMarketplaceCreditApp Is Nothing Then
+            p_ofrmMarketplaceCreditApp = New frmMarketplace
+        End If
+        showModalForm(p_ofrmMarketplaceCreditApp, Me)
+        p_ofrmMarketplaceCreditApp = Nothing
     End Sub
 End Class

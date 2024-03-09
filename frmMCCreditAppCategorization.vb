@@ -1614,26 +1614,26 @@ moveTo:
                     Call showResult()
                 Case 15 'void application
                     If txtField00.Text = "" Then Exit Sub
-                    Dim lsSQL As String
-                    lsSQL = "SELECT" & _
-                                " sPositnID" & _
-                            " FROM Employee_Master001 a" & _
-                                ", xxxSysUser b" & _
-                            " WHERE a.sEmployID = b.sEmployNo" & _
-                            " AND b.sUserIDxx=" & strParm(p_oAppDriver.UserID)
-                    Dim loDT As New DataTable
-                    Try
-                        loDT = p_oAppDriver.ExecuteQuery(lsSQL)
-                        If loDT.Rows.Count = 1 Then
-                            If loDT.Rows(0).Item("sPositnID") <> "126" And loDT.Rows(0).Item("sPositnID") <> "098" Then
-                                MsgBox("You are not allowed to void this application!!" + Environment.NewLine + "Please request assistance for supervisor.", vbCritical, "Warning-" & p_oAppDriver.UserID)
-                                Exit Sub
-                            End If
-                        End If
-                    Catch ex As Exception
-                        MsgBox(ex.Message)
-                        Exit Sub
-                    End Try
+                    'Dim lsSQL As String
+                    'lsSQL = "SELECT" & _
+                    '            " sPositnID" & _
+                    '        " FROM Employee_Master001 a" & _
+                    '            ", xxxSysUser b" & _
+                    '        " WHERE a.sEmployID = b.sEmployNo" & _
+                    '        " AND b.sUserIDxx=" & strParm(p_oAppDriver.UserID)
+                    'Dim loDT As New DataTable
+                    'Try
+                    '    loDT = p_oAppDriver.ExecuteQuery(lsSQL)
+                    '    If loDT.Rows.Count = 1 Then
+                    '        If loDT.Rows(0).Item("sPositnID") <> "126" And loDT.Rows(0).Item("sPositnID") <> "098" Then
+                    '            MsgBox("You are not allowed to void this application!!" + Environment.NewLine + "Please request assistance for supervisor.", vbCritical, "Warning-" & p_oAppDriver.UserID)
+                    '            Exit Sub
+                    '        End If
+                    '    End If
+                    'Catch ex As Exception
+                    '    MsgBox(ex.Message)
+                    '    Exit Sub
+                    'End Try
 
                     If MsgBox("Do you want to void this credit application?", MsgBoxStyle.Information + MsgBoxStyle.OkCancel, "Confirmation") = MsgBoxResult.Ok Then
                         If p_oTrans.CancelTransaction Then

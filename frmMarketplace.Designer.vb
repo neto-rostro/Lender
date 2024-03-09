@@ -238,7 +238,7 @@ Partial Class frmMarketplace
         Me.cmdButton15.Size = New System.Drawing.Size(78, 41)
         Me.cmdButton15.TabIndex = 74
         Me.cmdButton15.TabStop = False
-        Me.cmdButton15.Text = "&Disapproved"
+        Me.cmdButton15.Text = "&D. Apprv"
         Me.cmdButton15.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.cmdButton15.UseVisualStyleBackColor = True
         '
@@ -250,7 +250,7 @@ Partial Class frmMarketplace
         Me.cmdButton01.Size = New System.Drawing.Size(78, 41)
         Me.cmdButton01.TabIndex = 71
         Me.cmdButton01.TabStop = False
-        Me.cmdButton01.Text = "&Approved"
+        Me.cmdButton01.Text = "&Apprv"
         Me.cmdButton01.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.cmdButton01.UseVisualStyleBackColor = True
         '
@@ -298,7 +298,7 @@ Partial Class frmMarketplace
         Me.cmdButton08.Size = New System.Drawing.Size(78, 41)
         Me.cmdButton08.TabIndex = 65
         Me.cmdButton08.TabStop = False
-        Me.cmdButton08.Text = "&Custmer"
+        Me.cmdButton08.Text = "&Cstmer"
         Me.cmdButton08.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.cmdButton08.UseVisualStyleBackColor = True
         '
@@ -2110,7 +2110,7 @@ Partial Class frmMarketplace
         Me.KeyPreview = True
         Me.Name = "frmMarketplace"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
-        Me.Text = "Marketplace Credit Application"
+        Me.Text = "Credit Scoring - Mobile Phone"
         Me.Panel3.ResumeLayout(False)
         Me.Panel2.ResumeLayout(False)
         Me.Panel2.PerformLayout()
