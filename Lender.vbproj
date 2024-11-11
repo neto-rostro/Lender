@@ -92,6 +92,10 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>C:\Program Files\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\CrystalDecisions.Windows.Forms.dll</HintPath>
     </Reference>
+    <Reference Include="ggcAppDriver, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\GGC_Systems\vb.net\ggcAppDriver.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
     <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
     <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
@@ -1180,29 +1184,21 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\My Applications\ggcAppDriver\ggcAppDriver.vbproj">
-      <Project>{6fa248f3-a2ba-43df-be98-032e11714db5}</Project>
-      <Name>ggcAppDriver</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\My Applications\ggcGOCASMonitor\ggcGOCASMonitor.vbproj">
+    <ProjectReference Include="..\ggcGOCASMonitor\ggcGOCASMonitor.vbproj">
       <Project>{43319c8b-e47b-4c57-aa50-a06d59d46415}</Project>
       <Name>ggcGOCASMonitor</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\My Applications\ggcGOCAS\ggcGOCAS.vbproj">
-      <Project>{8f93865b-7346-4760-8da1-67e7735f51a8}</Project>
+    <ProjectReference Include="..\ggcGOCAS\ggcGOCAS.vbproj">
+      <Project>{8F93865B-7346-4760-8DA1-67E7735F51A8}</Project>
       <Name>ggcGOCAS</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\My Applications\ggcLRReports\ggcLRReports.vbproj">
+    <ProjectReference Include="..\ggcLRReports\ggcLRReports.vbproj">
       <Project>{6d6e1f9c-92b6-4b7d-9b0a-a372d694c62a}</Project>
       <Name>ggcLRReports</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\My Applications\ggcLRTransaction\ggcLRTransaction.vbproj">
-      <Project>{c3c4e4e5-6947-4e6e-9766-366987e92b3b}</Project>
+    <ProjectReference Include="..\ggcLRTransaction\ggcLRTransaction.vbproj">
+      <Project>{C3C4E4E5-6947-4E6E-9766-366987E92B3B}</Project>
       <Name>ggcLRTransaction</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\My Applications\ggcMCInventory\ggcMCInventory.vbproj">
-      <Project>{de58a05e-77ea-4276-b54a-8ef85d5e6a63}</Project>
-      <Name>ggcMCInventory</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />

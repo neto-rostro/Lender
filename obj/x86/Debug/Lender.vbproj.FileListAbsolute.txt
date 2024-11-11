@@ -1697,3 +1697,112 @@ U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbproj.Generate
 U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.exe
 U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.xml
 U:\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.pdb
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.vbproj.AssemblyReference.cache
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.FrmCITagging.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCITaggingViewing.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmEPay.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLRApplicationTransfer.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMarketplace.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMarketplaceHistory.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMPCreditAppHistory.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMCCreditAppHistory.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCarApplicationHistory.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCarApplicationApproval.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmAppApprovalPreview.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmDateCriteria.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLoadInfo.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMCCreditAppCategorization.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMCCreditAppOverride.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMCCreditAppResult.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMCCreditAppReview.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMCCreditApp.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMCCreditAppQM.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMCModel.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMonitor.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMPCreditApp.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMPCreditAppReg.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMCMasterReg.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmBillingReg.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmBillingReport.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCarApplicationApprovalold.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCarApplicationEntry.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCarApplicationRelease.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCarCheckClearing.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCarPaymentEntry.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCarPaymentPosting.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCarPaymentPostingPr.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCarPaymentPR.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCarPaymentPRReg.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCarPaymentReg.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCarRegistrationLedger.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCTBillingMaster.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCTLoanManagement.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCTPosting.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLenderReg.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmAutoLedger.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLoanManagement.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLoanPosting.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmAutoARReg.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMPMasterReg.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMPPaymentEntry.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryPR.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryReg.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMPPaymentPosting.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMPPaymentPRPosting.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmMPPaymentRegPR.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmPayment.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmPaymentPartners.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmPrintPreview.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmQuickMatch.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmReceived.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmReportMenu.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmSample.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCarBrand.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCarColor.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCarModel.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCarSerial.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCarSerialRegistration.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.mdiCarTrade.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmARPaymentApproval.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmARPaymentApprovalPR.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmARPaymentEntry.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmARPaymentEntryPR.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmARPaymentReg.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmARPaymentRegPR.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCheckClearing.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmCheckReg.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLRPaymentEntryPR.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLRAdjustmentApproval.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLRAdjustmentEntry.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLRAdjustmentReg.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLRApplicationApproval.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLRApplicationEntry.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLRApplicationReg.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLRApplicationRelease.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLRLedger.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLRMasterReg.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLRPaymentEntry.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLRPaymentPosting.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLRPaymentPostingPR.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLRPaymentReg.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmLRPaymentRegPR.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmReportViewer.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.mdiMain.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.mdiMobile.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.Resources.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.frmRedeemableItems.resources
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.cache
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.vbproj.CoreCompileInputs.cache
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.vbproj.SuggestedBindingRedirects.cache
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.exe.config
+C:\GGC_Systems\vb.net\frmDateCriteria.resx
+C:\GGC_Systems\vb.net\frmDateCriteria.Designer.vb
+C:\GGC_Systems\vb.net\frmDateCriteria.vb
+C:\GGC_Systems\vb.net\Lender.exe.config
+C:\GGC_Systems\vb.net\Lender.exe
+C:\GGC_Systems\vb.net\Lender.pdb
+C:\GGC_Systems\vb.net\Lender.xml
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.vbproj.CopyComplete
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.exe
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.xml
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.pdb
