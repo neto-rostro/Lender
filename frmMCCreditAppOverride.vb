@@ -237,6 +237,22 @@ Public Class frmMCCreditAppOverride
                         ClearFields(Me.Panel2)
                         loadTransaction()
                     End If
+                Case 6 'export to PDF for docusign
+                    If IFNull(p_oTrans.Master("sTransNox")) <> "" And
+                        IFNull(p_oTrans.Master("sGOCASNoF"), p_oTrans.Master("sGOCASNox")) <> "" And
+                        (p_oTrans.Master("cTranStat") = "1" Or p_oTrans.Master("cTranStat") = "2") Then
+                        Dim lnReturn As Integer = execJava("D:\GGC_Java_Systems\gocas.jar",
+                                                            "org.rmj.gocas.ExportGOCASForm",
+                                                            p_oTrans.Master("sTransNox"))
+
+                        If (lnReturn = 0) Then
+                            MsgBox("File exported sucessfully.", vbInformation, "Success")
+                        Else
+                            MsgBox("Unable to export transaction.", vbCritical, "Warning")
+                        End If
+                    Else
+                        MsgBox("Unable to export transaction. It may not be approved or no transaction was loaded.", vbCritical, "Warning")
+                    End If
                 Case 14
                     showResult()
                 Case 15

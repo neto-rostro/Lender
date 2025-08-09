@@ -23,6 +23,8 @@ Partial Class frmMCCreditAppOverride
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.Panel3 = New System.Windows.Forms.Panel()
+        Me.cmdButton06 = New System.Windows.Forms.Button()
+        Me.cmdButton15 = New System.Windows.Forms.Button()
         Me.cmdButton25 = New System.Windows.Forms.Button()
         Me.cmdButton02 = New System.Windows.Forms.Button()
         Me.cmdButton14 = New System.Windows.Forms.Button()
@@ -209,7 +211,6 @@ Partial Class frmMCCreditAppOverride
         Me.Label91 = New System.Windows.Forms.Label()
         Me.tabPage07 = New System.Windows.Forms.TabPage()
         Me.dgv01 = New System.Windows.Forms.DataGridView()
-        Me.cmdButton15 = New System.Windows.Forms.Button()
         Me.Panel3.SuspendLayout()
         Me.Panel2.SuspendLayout()
         Me.Panel1.SuspendLayout()
@@ -234,6 +235,7 @@ Partial Class frmMCCreditAppOverride
         'Panel3
         '
         Me.Panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Panel3.Controls.Add(Me.cmdButton06)
         Me.Panel3.Controls.Add(Me.cmdButton15)
         Me.Panel3.Controls.Add(Me.cmdButton25)
         Me.Panel3.Controls.Add(Me.cmdButton02)
@@ -248,11 +250,36 @@ Partial Class frmMCCreditAppOverride
         Me.Panel3.Size = New System.Drawing.Size(86, 491)
         Me.Panel3.TabIndex = 8
         '
+        'cmdButton06
+        '
+        Me.cmdButton06.Image = Global.Lender.My.Resources.Resources.print
+        Me.cmdButton06.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.cmdButton06.Location = New System.Drawing.Point(3, 207)
+        Me.cmdButton06.Name = "cmdButton06"
+        Me.cmdButton06.Size = New System.Drawing.Size(78, 41)
+        Me.cmdButton06.TabIndex = 78
+        Me.cmdButton06.TabStop = False
+        Me.cmdButton06.Text = "E&xport"
+        Me.cmdButton06.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
+        Me.cmdButton06.UseVisualStyleBackColor = True
+        '
+        'cmdButton15
+        '
+        Me.cmdButton15.Image = Global.Lender.My.Resources.Resources.void
+        Me.cmdButton15.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.cmdButton15.Location = New System.Drawing.Point(3, 125)
+        Me.cmdButton15.Name = "cmdButton15"
+        Me.cmdButton15.Size = New System.Drawing.Size(78, 41)
+        Me.cmdButton15.TabIndex = 77
+        Me.cmdButton15.TabStop = False
+        Me.cmdButton15.Text = "  &Void"
+        Me.cmdButton15.UseVisualStyleBackColor = True
+        '
         'cmdButton25
         '
         Me.cmdButton25.Image = Global.Lender.My.Resources.Resources.browsing
         Me.cmdButton25.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton25.Location = New System.Drawing.Point(3, 207)
+        Me.cmdButton25.Location = New System.Drawing.Point(3, 248)
         Me.cmdButton25.Name = "cmdButton25"
         Me.cmdButton25.Size = New System.Drawing.Size(78, 41)
         Me.cmdButton25.TabIndex = 76
@@ -289,7 +316,7 @@ Partial Class frmMCCreditAppOverride
         '
         Me.cmdButton00.Image = Global.Lender.My.Resources.Resources._exit
         Me.cmdButton00.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton00.Location = New System.Drawing.Point(3, 248)
+        Me.cmdButton00.Location = New System.Drawing.Point(3, 289)
         Me.cmdButton00.Name = "cmdButton00"
         Me.cmdButton00.Size = New System.Drawing.Size(78, 41)
         Me.cmdButton00.TabIndex = 63
@@ -2437,18 +2464,6 @@ Partial Class frmMCCreditAppOverride
         Me.dgv01.Size = New System.Drawing.Size(722, 180)
         Me.dgv01.TabIndex = 1
         '
-        'cmdButton15
-        '
-        Me.cmdButton15.Image = Global.Lender.My.Resources.Resources.void
-        Me.cmdButton15.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton15.Location = New System.Drawing.Point(3, 125)
-        Me.cmdButton15.Name = "cmdButton15"
-        Me.cmdButton15.Size = New System.Drawing.Size(78, 41)
-        Me.cmdButton15.TabIndex = 77
-        Me.cmdButton15.TabStop = False
-        Me.cmdButton15.Text = "  &Void"
-        Me.cmdButton15.UseVisualStyleBackColor = True
-        '
         'frmMCCreditAppOverride
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -2682,4 +2697,5 @@ Partial Class frmMCCreditAppOverride
     Friend WithEvents cmdButton02 As System.Windows.Forms.Button
     Friend WithEvents cmdButton25 As System.Windows.Forms.Button
     Friend WithEvents cmdButton15 As Button
+    Friend WithEvents cmdButton06 As Button
 End Class

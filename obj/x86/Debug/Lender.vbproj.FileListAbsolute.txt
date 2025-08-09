@@ -1795,6 +1795,10 @@ D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.cac
 D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.vbproj.CoreCompileInputs.cache
 D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.vbproj.SuggestedBindingRedirects.cache
 D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.exe.config
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.vbproj.CopyComplete
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.exe
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.xml
+D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.pdb
 C:\GGC_Systems\vb.net\frmDateCriteria.resx
 C:\GGC_Systems\vb.net\frmDateCriteria.Designer.vb
 C:\GGC_Systems\vb.net\frmDateCriteria.vb
@@ -1802,7 +1806,103 @@ C:\GGC_Systems\vb.net\Lender.exe.config
 C:\GGC_Systems\vb.net\Lender.exe
 C:\GGC_Systems\vb.net\Lender.pdb
 C:\GGC_Systems\vb.net\Lender.xml
-D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.vbproj.CopyComplete
-D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.exe
-D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.xml
-D:\MAVEN PROJECTS\VB.NET\Lender\obj\x86\Debug\Lender.pdb
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbproj.AssemblyReference.cache
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.FrmCITagging.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCITaggingViewing.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmEPay.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationTransfer.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMarketplace.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMarketplaceHistory.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditAppHistory.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppHistory.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationHistory.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationApproval.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAppApprovalPreview.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmDateCriteria.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoadInfo.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppCategorization.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppOverride.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppResult.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppReview.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditApp.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCCreditAppQM.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCModel.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMonitor.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditApp.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPCreditAppReg.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMCMasterReg.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmBillingReg.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmBillingReport.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationApprovalold.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationEntry.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarApplicationRelease.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarCheckClearing.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentEntry.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPosting.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPostingPr.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPR.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentPRReg.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarPaymentReg.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarRegistrationLedger.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTBillingMaster.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTLoanManagement.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCTPosting.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLenderReg.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAutoLedger.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoanManagement.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLoanPosting.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmAutoARReg.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPMasterReg.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntry.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryPR.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentEntryReg.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentPosting.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentPRPosting.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmMPPaymentRegPR.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPayment.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPaymentPartners.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmPrintPreview.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmQuickMatch.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReceived.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReportMenu.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmSample.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarBrand.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarColor.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarModel.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarSerial.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCarSerialRegistration.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiCarTrade.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentApproval.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentApprovalPR.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentEntry.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentEntryPR.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentReg.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmARPaymentRegPR.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCheckClearing.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmCheckReg.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentEntryPR.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentApproval.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentEntry.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRAdjustmentReg.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationApproval.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationEntry.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationReg.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRApplicationRelease.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRLedger.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRMasterReg.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentEntry.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentPosting.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentPostingPR.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentReg.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmLRPaymentRegPR.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmReportViewer.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiMain.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.mdiMobile.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.Resources.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.frmRedeemableItems.resources
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.cache
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbproj.CoreCompileInputs.cache
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.vbproj.CopyComplete
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.exe
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.xml
+D:\Guanzon\GMC SEG Folder\vb.net\My Projects\Lender\obj\x86\Debug\Lender.pdb
