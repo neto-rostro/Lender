@@ -115,10 +115,6 @@
       <HintPath>..\packages\PayPalCoreSDK.1.7.1\lib\net40\PayPalCoreSDK.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="rmjGOCAS, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\GGC_Systems\vb.net\rmjGOCAS.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Deployment" />
@@ -150,6 +146,9 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="FrmCITagging.Designer.vb">
       <DependentUpon>FrmCITagging.vb</DependentUpon>
     </Compile>
@@ -184,6 +183,18 @@
       <DependentUpon>frmMarketplaceHistory.vb</DependentUpon>
     </Compile>
     <Compile Include="frmMarketplaceHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMCARContract.Designer.vb">
+      <DependentUpon>frmMCARContract.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMCARContract.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMCARContractHist.Designer.vb">
+      <DependentUpon>frmMCARContractHist.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMCARContractHist.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmMPCreditAppHistory.Designer.vb">
@@ -753,6 +764,12 @@
     <EmbeddedResource Include="frmMarketplaceHistory.resx">
       <DependentUpon>frmMarketplaceHistory.vb</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmMCARContract.resx">
+      <DependentUpon>frmMCARContract.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMCARContractHist.resx">
+      <DependentUpon>frmMCARContractHist.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frmMPCreditAppHistory.resx">
       <DependentUpon>frmMPCreditAppHistory.vb</DependentUpon>
     </EmbeddedResource>
@@ -1189,7 +1206,7 @@
       <Name>ggcGOCASMonitor</Name>
     </ProjectReference>
     <ProjectReference Include="..\ggcGOCAS\ggcGOCAS.vbproj">
-      <Project>{8F93865B-7346-4760-8DA1-67E7735F51A8}</Project>
+      <Project>{8f93865b-7346-4760-8da1-67e7735f51a8}</Project>
       <Name>ggcGOCAS</Name>
     </ProjectReference>
     <ProjectReference Include="..\ggcLRReports\ggcLRReports.vbproj">
@@ -1197,8 +1214,16 @@
       <Name>ggcLRReports</Name>
     </ProjectReference>
     <ProjectReference Include="..\ggcLRTransaction\ggcLRTransaction.vbproj">
-      <Project>{C3C4E4E5-6947-4E6E-9766-366987E92B3B}</Project>
+      <Project>{c3c4e4e5-6947-4e6e-9766-366987e92b3b}</Project>
       <Name>ggcLRTransaction</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ggcMCInventory\ggcMCInventory.vbproj">
+      <Project>{de58a05e-77ea-4276-b54a-8ef85d5e6a63}</Project>
+      <Name>ggcMCInventory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\rmjGOCAS\rmjGOCAS.vbproj">
+      <Project>{b96645e6-b47e-46f3-855e-e2aa501d680e}</Project>
+      <Name>rmjGOCAS</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
