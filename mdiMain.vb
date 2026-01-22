@@ -71,6 +71,9 @@ Public Class mdiMain
     Private p_ofrmMarketplaceCreditApp As frmMarketplace
     Private p_ofrmMarketplaceCreditAppHistory As frmMarketplaceHistory
 
+    Private p_ofrmMCARContract As frmMCARContract
+    Private p_ofrmMCARContractHist As frmMCARContractHist
+
     Private Sub EntryToolStripMenuItem_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles EntryToolStripMenuItem.Click
         showModalForm(frmLRApplicationEntry, Me)
     End Sub
@@ -783,5 +786,13 @@ errProc:
         End If
         showModalForm(p_ofrmMarketplaceCreditApp, Me)
         p_ofrmMarketplaceCreditApp = Nothing
+    End Sub
+
+    Private Sub MCARContractToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles MCARContractToolStripMenuItem.Click
+        If p_ofrmMCARContract Is Nothing Then
+            p_ofrmMCARContract = New frmMCARContract
+        End If
+        showModalForm(p_ofrmMCARContract, Me)
+        p_ofrmMCARContract = Nothing
     End Sub
 End Class
