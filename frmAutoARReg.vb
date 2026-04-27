@@ -110,6 +110,26 @@ Public Class frmAutoARReg
         Call loadEntry(Me.Panel1)
         Call loadEntry(Me.Panel3)
         TabControl1.SelectedIndex = 0
+
+        cmdButton06.Visible = False
+        cmdButton01.Visible = False
+
+        'kalyptus 2026.04.11 02:28pm
+        'Permit updating the interest rate only for MIS or CSS departments when the employee is a Supervisor or Department Head...
+        If p_oTrans.Master("nPrincipl") > 0 Then
+            'Is users department MIS or CSS and either a supervisor or department head...
+            If {"026", "022"}.Contains(p_oAppDriver.DepartmentID) And {"1", "2"}.Contains(p_oAppDriver.EmployeeLevel) Then
+                txtField09.Enabled = True
+                txtField09.ReadOnly = False
+
+                cmdButton06.Visible = True
+                cmdButton01.Visible = True
+
+            Else
+                'txtField09.Enabled = False
+                txtField09.ReadOnly = True
+            End If
+        End If
     End Sub
 
     Private Function newRecord() As Boolean
@@ -136,8 +156,41 @@ Public Class frmAutoARReg
                         Case 5 To 9, 13, 14, 15, 18 To 23, 25, 29, 30
                             If IsNumeric(p_oTrans.Master(loIndex)) Then
                                 loTxt.Text = Format(p_oTrans.Master(loIndex), xsDECIMAL)
+
+                                'kalyptus - 2026.04.10 10:37am
+                                'computed for the new computed value of total interest and set as a tooltip and tag for the total interest textbox
+                                If (loIndex = 6 And p_oTrans.Master(loIndex) > 0) Then
+                                    ' Add a ToolTip control to your form (drag from toolbox or create in code)
+                                    Dim tip As New ToolTip()
+
+                                    'Compute for the monthly interest
+                                    Dim loMonthInt As Double = (p_oTrans.Master("nPrincipl") + p_oTrans.Master("nInsChrge")) * (p_oTrans.Master("nIntRatex") / 100) + p_oTrans.Master("nRebatesx")
+                                    'Compute for the total interest: TI = roundup(monthly interest) * term
+                                    'Compute for the monthly amortization of the principal
+                                    Dim loMonthPxx As Double = Math.Round(p_oTrans.Master("nPrincipl") / p_oTrans.Master("nAcctTerm"), 2)
+                                    'Compute for the Montly Amortization (Monthly Principal + Montly Interest)    
+                                    Dim loMonthTot As Double = Math.Ceiling(loMonthPxx + loMonthInt)
+                                    'Compute for the total interest (rounded up from the principal are added to the interest)
+                                    Dim loTotalInt As Double = (loMonthTot - loMonthPxx) * p_oTrans.Master("nAcctTerm")
+
+                                    ' Attach a note to Total Interest
+                                    tip.SetToolTip(loTxt, loTotalInt)
+                                    ' Attach a note to Montly Amortization(Principal)
+                                    tip.SetToolTip(txtField13, loMonthPxx)
+                                    ' Attach a note to Montly Amortization(Interest)
+                                    tip.SetToolTip(txtOther02, loTotalInt / p_oTrans.Master("nAcctTerm"))
+
+                                    'Set the new lnTotalInt as value of tag
+                                    loTxt.Tag = loTotalInt
+                                End If
                             Else
                                 loTxt.Text = "0.00"
+                                If (loIndex = 6) Then
+                                    ' Add a ToolTip control to your form (drag from toolbox or create in code)
+                                    Dim tip As New ToolTip()
+                                    ' Attach a note to the TextBox
+                                    tip.SetToolTip(loTxt, "")
+                                End If
                             End If
                         Case 24
                             If IsNumeric(p_oTrans.Master(loIndex)) Then
@@ -268,6 +321,11 @@ Public Class frmAutoARReg
         If Mid(loTxt.Name, 1, 8) = "txtField" And loTxt.ReadOnly = False Then
             p_oTrans.Master(loIndex) = loTxt.Text
         End If
+
+        If loIndex = 9 Then
+            p_oTrans.Master("nIntRatex") = loTxt.Text
+            txtOther02.Text = p_oTrans.Master("nInterest") / p_oTrans.Master("nAcctTerm")
+        End If
     End Sub
 
     Private Sub cmdButton_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
@@ -280,6 +338,19 @@ Public Class frmAutoARReg
         Select Case lnIndex
             Case 0 ' Exit
                 Me.Dispose()
+            Case 1 'Update
+                If txtField09.Text <> txtField09.Tag Then
+                    lsSQL = "UPDATE LR_Master SET" &
+                                "  nInterest = " & p_oTrans.Master("nInterest") &
+                                ", nIntRatex = " & p_oTrans.Master("nIntRatex") &
+                           " WHERE sAcctNmbr = " & strParm(p_oTrans.Master("sAcctNmbr"))
+                    p_oAppDriver.Execute(lsSQL, "LR_Master")
+
+                    p_oTrans.OpenTransaction(txtField00.Text)
+                    loadMaster()
+                    p_nEditMode = xeEditMode.MODE_READY
+                    setTextSeeks()
+                End If
             Case 2 ' Browse
                 If p_oTrans.SearchTransaction("", False) = True Then
                     loadMaster()
@@ -297,6 +368,11 @@ Public Class frmAutoARReg
                 loFrm.Interest = IFNull(p_oTrans.Master("nInterest"), 0)
                 loFrm.Principal = IFNull(p_oTrans.Master("nPrincipl"), 0)
                 loFrm.ShowDialog()
+            Case 6 'Recalculate
+                Dim poLedger As LRTrans
+                poLedger = New LRTrans(p_oAppDriver)
+                poLedger.RecalculateX(p_oTrans.Master("sAcctNmbr"))
+                loadMaster()
         End Select
     End Sub
     Private Sub txtSeeks_GotFocus(ByVal sender As Object, ByVal e As System.EventArgs)
@@ -324,5 +400,17 @@ Public Class frmAutoARReg
             Case Else
                 loTxt.Text = IFNull(Value, "")
         End Select
+    End Sub
+
+    Private Sub Label22_Click(sender As Object, e As EventArgs) Handles Label22.Click
+
+    End Sub
+
+    Private Sub Label6_Click(sender As Object, e As EventArgs) Handles Label6.Click
+
+    End Sub
+
+    Private Sub txtField13_TextChanged(sender As Object, e As EventArgs) Handles txtField13.TextChanged
+
     End Sub
 End Class

@@ -72,8 +72,6 @@ Partial Class frmLenderReg
         Me.Label46 = New System.Windows.Forms.Label()
         Me.txtField30 = New System.Windows.Forms.TextBox()
         Me.Label25 = New System.Windows.Forms.Label()
-        Me.txtField29 = New System.Windows.Forms.TextBox()
-        Me.Label24 = New System.Windows.Forms.Label()
         Me.txtField21 = New System.Windows.Forms.TextBox()
         Me.txtField20 = New System.Windows.Forms.TextBox()
         Me.Label36 = New System.Windows.Forms.Label()
@@ -107,6 +105,7 @@ Partial Class frmLenderReg
         Me.Label13 = New System.Windows.Forms.Label()
         Me.Label21 = New System.Windows.Forms.Label()
         Me.TabPage3 = New System.Windows.Forms.TabPage()
+        Me.Label10 = New System.Windows.Forms.Label()
         Me.txtField42 = New System.Windows.Forms.TextBox()
         Me.txtField41 = New System.Windows.Forms.TextBox()
         Me.txtField40 = New System.Windows.Forms.TextBox()
@@ -128,7 +127,8 @@ Partial Class frmLenderReg
         Me.Label11 = New System.Windows.Forms.Label()
         Me.Label16 = New System.Windows.Forms.Label()
         Me.Label18 = New System.Windows.Forms.Label()
-        Me.Label10 = New System.Windows.Forms.Label()
+        Me.txtField29 = New System.Windows.Forms.TextBox()
+        Me.Label24 = New System.Windows.Forms.Label()
         Me.Panel4.SuspendLayout()
         Me.Panel2.SuspendLayout()
         Me.Panel1.SuspendLayout()
@@ -201,7 +201,7 @@ Partial Class frmLenderReg
         Me.Label42.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label42.Location = New System.Drawing.Point(310, 7)
         Me.Label42.Name = "Label42"
-        Me.Label42.Size = New System.Drawing.Size(84, 16)
+        Me.Label42.Size = New System.Drawing.Size(83, 16)
         Me.Label42.TabIndex = 3
         Me.Label42.Text = "Client Name:"
         '
@@ -220,7 +220,7 @@ Partial Class frmLenderReg
         Me.Label41.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label41.Location = New System.Drawing.Point(28, 6)
         Me.Label41.Name = "Label41"
-        Me.Label41.Size = New System.Drawing.Size(58, 16)
+        Me.Label41.Size = New System.Drawing.Size(57, 16)
         Me.Label41.TabIndex = 1
         Me.Label41.Text = "Acct No:"
         '
@@ -286,7 +286,7 @@ Partial Class frmLenderReg
         Me.Label40.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label40.Location = New System.Drawing.Point(28, 5)
         Me.Label40.Name = "Label40"
-        Me.Label40.Size = New System.Drawing.Size(58, 16)
+        Me.Label40.Size = New System.Drawing.Size(57, 16)
         Me.Label40.TabIndex = 5
         Me.Label40.Text = "Acct No:"
         '
@@ -296,7 +296,7 @@ Partial Class frmLenderReg
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label2.Location = New System.Drawing.Point(24, 57)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(62, 16)
+        Me.Label2.Size = New System.Drawing.Size(61, 16)
         Me.Label2.TabIndex = 13
         Me.Label2.Text = "Address:"
         '
@@ -319,7 +319,7 @@ Partial Class frmLenderReg
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label1.Location = New System.Drawing.Point(2, 31)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(84, 16)
+        Me.Label1.Size = New System.Drawing.Size(83, 16)
         Me.Label1.TabIndex = 11
         Me.Label1.Text = "Client Name:"
         '
@@ -365,7 +365,7 @@ Partial Class frmLenderReg
         Me.Label45.AutoSize = True
         Me.Label45.Location = New System.Drawing.Point(64, 10)
         Me.Label45.Name = "Label45"
-        Me.Label45.Size = New System.Drawing.Size(70, 16)
+        Me.Label45.Size = New System.Drawing.Size(69, 16)
         Me.Label45.TabIndex = 119
         Me.Label45.Text = "Subsidize:"
         '
@@ -401,7 +401,7 @@ Partial Class frmLenderReg
         Me.Label47.AutoSize = True
         Me.Label47.Location = New System.Drawing.Point(16, 31)
         Me.Label47.Name = "Label47"
-        Me.Label47.Size = New System.Drawing.Size(118, 16)
+        Me.Label47.Size = New System.Drawing.Size(117, 16)
         Me.Label47.TabIndex = 121
         Me.Label47.Text = "Delear's Incentive:"
         '
@@ -410,7 +410,7 @@ Partial Class frmLenderReg
         Me.Label48.AutoSize = True
         Me.Label48.Location = New System.Drawing.Point(39, 53)
         Me.Label48.Name = "Label48"
-        Me.Label48.Size = New System.Drawing.Size(95, 16)
+        Me.Label48.Size = New System.Drawing.Size(94, 16)
         Me.Label48.TabIndex = 122
         Me.Label48.Text = "Insurance Amt:"
         Me.Label48.Visible = False
@@ -431,6 +431,8 @@ Partial Class frmLenderReg
         'TabPage1
         '
         Me.TabPage1.BackColor = System.Drawing.SystemColors.Control
+        Me.TabPage1.Controls.Add(Me.txtField29)
+        Me.TabPage1.Controls.Add(Me.Label24)
         Me.TabPage1.Controls.Add(Me.txtField14)
         Me.TabPage1.Controls.Add(Me.txtField04)
         Me.TabPage1.Controls.Add(Me.txtField31)
@@ -460,7 +462,7 @@ Partial Class frmLenderReg
         Me.txtField14.BackColor = System.Drawing.SystemColors.Control
         Me.txtField14.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txtField14.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtField14.Location = New System.Drawing.Point(121, 51)
+        Me.txtField14.Location = New System.Drawing.Point(126, 51)
         Me.txtField14.MaxLength = 3
         Me.txtField14.Name = "txtField14"
         Me.txtField14.ReadOnly = True
@@ -500,9 +502,9 @@ Partial Class frmLenderReg
         Me.Label22.AutoSize = True
         Me.Label22.Location = New System.Drawing.Point(8, 51)
         Me.Label22.Name = "Label22"
-        Me.Label22.Size = New System.Drawing.Size(108, 16)
+        Me.Label22.Size = New System.Drawing.Size(114, 16)
         Me.Label22.TabIndex = 118
-        Me.Label22.Text = "Penalty Rate(%):"
+        Me.Label22.Text = "Mo. Pen. Rate(%):"
         '
         'txtField01
         '
@@ -510,7 +512,7 @@ Partial Class frmLenderReg
         Me.txtField01.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txtField01.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtField01.ForeColor = System.Drawing.SystemColors.WindowText
-        Me.txtField01.Location = New System.Drawing.Point(121, 9)
+        Me.txtField01.Location = New System.Drawing.Point(126, 9)
         Me.txtField01.Name = "txtField01"
         Me.txtField01.ReadOnly = True
         Me.txtField01.Size = New System.Drawing.Size(121, 20)
@@ -521,9 +523,9 @@ Partial Class frmLenderReg
         '
         Me.Label12.AutoSize = True
         Me.Label12.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label12.Location = New System.Drawing.Point(76, 9)
+        Me.Label12.Location = New System.Drawing.Point(83, 9)
         Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(40, 16)
+        Me.Label12.Size = New System.Drawing.Size(39, 16)
         Me.Label12.TabIndex = 114
         Me.Label12.Text = "Date:"
         '
@@ -533,7 +535,7 @@ Partial Class frmLenderReg
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label4.Location = New System.Drawing.Point(280, 9)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(66, 16)
+        Me.Label4.Size = New System.Drawing.Size(65, 16)
         Me.Label4.TabIndex = 16
         Me.Label4.Text = "Remarks:"
         '
@@ -543,8 +545,8 @@ Partial Class frmLenderReg
         Me.txtField09.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txtField09.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtField09.ForeColor = System.Drawing.SystemColors.WindowText
-        Me.txtField09.Location = New System.Drawing.Point(121, 30)
-        Me.txtField09.MaxLength = 3
+        Me.txtField09.Location = New System.Drawing.Point(126, 30)
+        Me.txtField09.MaxLength = 7
         Me.txtField09.Name = "txtField09"
         Me.txtField09.ReadOnly = True
         Me.txtField09.Size = New System.Drawing.Size(121, 20)
@@ -557,7 +559,7 @@ Partial Class frmLenderReg
         Me.txtField08.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txtField08.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtField08.ForeColor = System.Drawing.SystemColors.WindowText
-        Me.txtField08.Location = New System.Drawing.Point(121, 135)
+        Me.txtField08.Location = New System.Drawing.Point(126, 135)
         Me.txtField08.MaxLength = 6
         Me.txtField08.Name = "txtField08"
         Me.txtField08.ReadOnly = True
@@ -572,7 +574,7 @@ Partial Class frmLenderReg
         Me.txtField06.Enabled = False
         Me.txtField06.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtField06.ForeColor = System.Drawing.SystemColors.WindowText
-        Me.txtField06.Location = New System.Drawing.Point(121, 93)
+        Me.txtField06.Location = New System.Drawing.Point(126, 93)
         Me.txtField06.MaxLength = 6
         Me.txtField06.Name = "txtField06"
         Me.txtField06.ReadOnly = True
@@ -586,7 +588,7 @@ Partial Class frmLenderReg
         Me.txtField05.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txtField05.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtField05.ForeColor = System.Drawing.SystemColors.WindowText
-        Me.txtField05.Location = New System.Drawing.Point(121, 72)
+        Me.txtField05.Location = New System.Drawing.Point(126, 72)
         Me.txtField05.MaxLength = 7
         Me.txtField05.Name = "txtField05"
         Me.txtField05.ReadOnly = True
@@ -600,7 +602,7 @@ Partial Class frmLenderReg
         Me.txtField07.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.txtField07.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.txtField07.ForeColor = System.Drawing.SystemColors.WindowText
-        Me.txtField07.Location = New System.Drawing.Point(121, 114)
+        Me.txtField07.Location = New System.Drawing.Point(126, 114)
         Me.txtField07.MaxLength = 6
         Me.txtField07.Name = "txtField07"
         Me.txtField07.ReadOnly = True
@@ -611,27 +613,27 @@ Partial Class frmLenderReg
         'Label6
         '
         Me.Label6.AutoSize = True
-        Me.Label6.Location = New System.Drawing.Point(10, 30)
+        Me.Label6.Location = New System.Drawing.Point(19, 30)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(106, 16)
+        Me.Label6.Size = New System.Drawing.Size(103, 16)
         Me.Label6.TabIndex = 56
-        Me.Label6.Text = "Interest Rate(%):"
+        Me.Label6.Text = "Mo. Int. Rate(%):"
         '
         'Label8
         '
         Me.Label8.AutoSize = True
-        Me.Label8.Location = New System.Drawing.Point(13, 135)
+        Me.Label8.Location = New System.Drawing.Point(20, 135)
         Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(103, 16)
+        Me.Label8.Size = New System.Drawing.Size(102, 16)
         Me.Label8.TabIndex = 54
         Me.Label8.Text = "Insurance Total:"
         '
         'Label17
         '
         Me.Label17.AutoSize = True
-        Me.Label17.Location = New System.Drawing.Point(62, 93)
+        Me.Label17.Location = New System.Drawing.Point(69, 93)
         Me.Label17.Name = "Label17"
-        Me.Label17.Size = New System.Drawing.Size(54, 16)
+        Me.Label17.Size = New System.Drawing.Size(53, 16)
         Me.Label17.TabIndex = 52
         Me.Label17.Text = "Interest:"
         '
@@ -639,18 +641,18 @@ Partial Class frmLenderReg
         '
         Me.Label5.AutoSize = True
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(53, 72)
+        Me.Label5.Location = New System.Drawing.Point(60, 72)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(63, 16)
+        Me.Label5.Size = New System.Drawing.Size(62, 16)
         Me.Label5.TabIndex = 50
         Me.Label5.Text = "Principal:"
         '
         'Label7
         '
         Me.Label7.AutoSize = True
-        Me.Label7.Location = New System.Drawing.Point(12, 114)
+        Me.Label7.Location = New System.Drawing.Point(19, 114)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(104, 16)
+        Me.Label7.Size = New System.Drawing.Size(103, 16)
         Me.Label7.TabIndex = 30
         Me.Label7.Text = "Service Charge:"
         '
@@ -663,8 +665,6 @@ Partial Class frmLenderReg
         Me.TabPage2.Controls.Add(Me.Label46)
         Me.TabPage2.Controls.Add(Me.txtField30)
         Me.TabPage2.Controls.Add(Me.Label25)
-        Me.TabPage2.Controls.Add(Me.txtField29)
-        Me.TabPage2.Controls.Add(Me.Label24)
         Me.TabPage2.Controls.Add(Me.txtField21)
         Me.TabPage2.Controls.Add(Me.txtField20)
         Me.TabPage2.Controls.Add(Me.Label36)
@@ -768,31 +768,9 @@ Partial Class frmLenderReg
         Me.Label25.AutoSize = True
         Me.Label25.Location = New System.Drawing.Point(235, 51)
         Me.Label25.Name = "Label25"
-        Me.Label25.Size = New System.Drawing.Size(90, 16)
+        Me.Label25.Size = New System.Drawing.Size(89, 16)
         Me.Label25.TabIndex = 124
         Me.Label25.Text = "Rebate Total:"
-        '
-        'txtField29
-        '
-        Me.txtField29.BackColor = System.Drawing.SystemColors.Control
-        Me.txtField29.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.txtField29.Enabled = False
-        Me.txtField29.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.txtField29.Location = New System.Drawing.Point(101, 157)
-        Me.txtField29.Name = "txtField29"
-        Me.txtField29.ReadOnly = True
-        Me.txtField29.Size = New System.Drawing.Size(121, 20)
-        Me.txtField29.TabIndex = 23
-        Me.txtField29.TabStop = False
-        '
-        'Label24
-        '
-        Me.Label24.AutoSize = True
-        Me.Label24.Location = New System.Drawing.Point(39, 157)
-        Me.Label24.Name = "Label24"
-        Me.Label24.Size = New System.Drawing.Size(56, 16)
-        Me.Label24.TabIndex = 122
-        Me.Label24.Text = "Rebate:"
         '
         'txtField21
         '
@@ -825,7 +803,7 @@ Partial Class frmLenderReg
         Me.Label36.AutoSize = True
         Me.Label36.Location = New System.Drawing.Point(245, 9)
         Me.Label36.Name = "Label36"
-        Me.Label36.Size = New System.Drawing.Size(80, 16)
+        Me.Label36.Size = New System.Drawing.Size(79, 16)
         Me.Label36.TabIndex = 120
         Me.Label36.Text = "Credit Total:"
         '
@@ -834,7 +812,7 @@ Partial Class frmLenderReg
         Me.Label38.AutoSize = True
         Me.Label38.Location = New System.Drawing.Point(248, 30)
         Me.Label38.Name = "Label38"
-        Me.Label38.Size = New System.Drawing.Size(77, 16)
+        Me.Label38.Size = New System.Drawing.Size(76, 16)
         Me.Label38.TabIndex = 119
         Me.Label38.Text = "Debit Total:"
         '
@@ -882,7 +860,7 @@ Partial Class frmLenderReg
         Me.Label32.AutoSize = True
         Me.Label32.Location = New System.Drawing.Point(5, 135)
         Me.Label32.Name = "Label32"
-        Me.Label32.Size = New System.Drawing.Size(90, 16)
+        Me.Label32.Size = New System.Drawing.Size(89, 16)
         Me.Label32.TabIndex = 116
         Me.Label32.Text = "Penalty Total:"
         '
@@ -980,7 +958,7 @@ Partial Class frmLenderReg
         Me.Label70.AutoSize = True
         Me.Label70.Location = New System.Drawing.Point(275, 157)
         Me.Label70.Name = "Label70"
-        Me.Label70.Size = New System.Drawing.Size(50, 16)
+        Me.Label70.Size = New System.Drawing.Size(49, 16)
         Me.Label70.TabIndex = 81
         Me.Label70.Text = "Rating:"
         '
@@ -1040,7 +1018,7 @@ Partial Class frmLenderReg
         Me.Label26.AutoSize = True
         Me.Label26.Location = New System.Drawing.Point(27, 93)
         Me.Label26.Name = "Label26"
-        Me.Label26.Size = New System.Drawing.Size(68, 16)
+        Me.Label26.Size = New System.Drawing.Size(67, 16)
         Me.Label26.TabIndex = 73
         Me.Label26.Text = "Pmt Total:"
         '
@@ -1049,7 +1027,7 @@ Partial Class frmLenderReg
         Me.Label19.AutoSize = True
         Me.Label19.Location = New System.Drawing.Point(223, 115)
         Me.Label19.Name = "Label19"
-        Me.Label19.Size = New System.Drawing.Size(102, 16)
+        Me.Label19.Size = New System.Drawing.Size(101, 16)
         Me.Label19.TabIndex = 99
         Me.Label19.Text = "Delay Average:"
         '
@@ -1058,7 +1036,7 @@ Partial Class frmLenderReg
         Me.Label27.AutoSize = True
         Me.Label27.Location = New System.Drawing.Point(231, 94)
         Me.Label27.Name = "Label27"
-        Me.Label27.Size = New System.Drawing.Size(94, 16)
+        Me.Label27.Size = New System.Drawing.Size(93, 16)
         Me.Label27.TabIndex = 95
         Me.Label27.Text = "Last Pmt Date:"
         '
@@ -1067,7 +1045,7 @@ Partial Class frmLenderReg
         Me.Label23.AutoSize = True
         Me.Label23.Location = New System.Drawing.Point(263, 73)
         Me.Label23.Name = "Label23"
-        Me.Label23.Size = New System.Drawing.Size(62, 16)
+        Me.Label23.Size = New System.Drawing.Size(61, 16)
         Me.Label23.TabIndex = 94
         Me.Label23.Text = "Last Pmt:"
         '
@@ -1076,7 +1054,7 @@ Partial Class frmLenderReg
         Me.Label20.AutoSize = True
         Me.Label20.Location = New System.Drawing.Point(239, 136)
         Me.Label20.Name = "Label20"
-        Me.Label20.Size = New System.Drawing.Size(86, 16)
+        Me.Label20.Size = New System.Drawing.Size(85, 16)
         Me.Label20.TabIndex = 92
         Me.Label20.Text = "Date Closed:"
         '
@@ -1095,7 +1073,7 @@ Partial Class frmLenderReg
         Me.Label34.AutoSize = True
         Me.Label34.Location = New System.Drawing.Point(7, 114)
         Me.Label34.Name = "Label34"
-        Me.Label34.Size = New System.Drawing.Size(88, 16)
+        Me.Label34.Size = New System.Drawing.Size(87, 16)
         Me.Label34.TabIndex = 79
         Me.Label34.Text = "Interest Total:"
         '
@@ -1113,18 +1091,18 @@ Partial Class frmLenderReg
         '
         Me.Label15.AutoSize = True
         Me.Label15.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label15.Location = New System.Drawing.Point(15, 72)
+        Me.Label15.Location = New System.Drawing.Point(11, 72)
         Me.Label15.Name = "Label15"
-        Me.Label15.Size = New System.Drawing.Size(80, 16)
+        Me.Label15.Size = New System.Drawing.Size(83, 16)
         Me.Label15.TabIndex = 55
-        Me.Label15.Text = "Mthly Amort:"
+        Me.Label15.Text = "Amortization:"
         '
         'Label14
         '
         Me.Label14.AutoSize = True
         Me.Label14.Location = New System.Drawing.Point(27, 51)
         Me.Label14.Name = "Label14"
-        Me.Label14.Size = New System.Drawing.Size(68, 16)
+        Me.Label14.Size = New System.Drawing.Size(67, 16)
         Me.Label14.TabIndex = 53
         Me.Label14.Text = "Due Date:"
         '
@@ -1133,7 +1111,7 @@ Partial Class frmLenderReg
         Me.Label13.AutoSize = True
         Me.Label13.Location = New System.Drawing.Point(30, 30)
         Me.Label13.Name = "Label13"
-        Me.Label13.Size = New System.Drawing.Size(65, 16)
+        Me.Label13.Size = New System.Drawing.Size(64, 16)
         Me.Label13.TabIndex = 51
         Me.Label13.Text = "Act Term:"
         '
@@ -1143,7 +1121,7 @@ Partial Class frmLenderReg
         Me.Label21.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label21.Location = New System.Drawing.Point(32, 9)
         Me.Label21.Name = "Label21"
-        Me.Label21.Size = New System.Drawing.Size(63, 16)
+        Me.Label21.Size = New System.Drawing.Size(62, 16)
         Me.Label21.TabIndex = 49
         Me.Label21.Text = "First Pay:"
         '
@@ -1178,6 +1156,15 @@ Partial Class frmLenderReg
         Me.TabPage3.Size = New System.Drawing.Size(602, 206)
         Me.TabPage3.TabIndex = 2
         Me.TabPage3.Text = "Car Info"
+        '
+        'Label10
+        '
+        Me.Label10.AutoSize = True
+        Me.Label10.Location = New System.Drawing.Point(3, 77)
+        Me.Label10.Name = "Label10"
+        Me.Label10.Size = New System.Drawing.Size(86, 16)
+        Me.Label10.TabIndex = 101
+        Me.Label10.Text = "Brand Name:"
         '
         'txtField42
         '
@@ -1331,7 +1318,7 @@ Partial Class frmLenderReg
         Me.Label44.AutoSize = True
         Me.Label44.Location = New System.Drawing.Point(323, 54)
         Me.Label44.Name = "Label44"
-        Me.Label44.Size = New System.Drawing.Size(63, 16)
+        Me.Label44.Size = New System.Drawing.Size(62, 16)
         Me.Label44.TabIndex = 100
         Me.Label44.Text = "Plate No:"
         '
@@ -1340,7 +1327,7 @@ Partial Class frmLenderReg
         Me.Label29.AutoSize = True
         Me.Label29.Location = New System.Drawing.Point(325, 33)
         Me.Label29.Name = "Label29"
-        Me.Label29.Size = New System.Drawing.Size(61, 16)
+        Me.Label29.Size = New System.Drawing.Size(60, 16)
         Me.Label29.TabIndex = 99
         Me.Label29.Text = "CRN No:"
         '
@@ -1349,7 +1336,7 @@ Partial Class frmLenderReg
         Me.Label28.AutoSize = True
         Me.Label28.Location = New System.Drawing.Point(326, 12)
         Me.Label28.Name = "Label28"
-        Me.Label28.Size = New System.Drawing.Size(60, 16)
+        Me.Label28.Size = New System.Drawing.Size(59, 16)
         Me.Label28.TabIndex = 98
         Me.Label28.Text = "CRE No:"
         '
@@ -1358,7 +1345,7 @@ Partial Class frmLenderReg
         Me.Label30.AutoSize = True
         Me.Label30.Location = New System.Drawing.Point(271, 75)
         Me.Label30.Name = "Label30"
-        Me.Label30.Size = New System.Drawing.Size(115, 16)
+        Me.Label30.Size = New System.Drawing.Size(114, 16)
         Me.Label30.TabIndex = 90
         Me.Label30.Text = "Registration Date:"
         '
@@ -1367,7 +1354,7 @@ Partial Class frmLenderReg
         Me.Label31.AutoSize = True
         Me.Label31.Location = New System.Drawing.Point(305, 96)
         Me.Label31.Name = "Label31"
-        Me.Label31.Size = New System.Drawing.Size(81, 16)
+        Me.Label31.Size = New System.Drawing.Size(80, 16)
         Me.Label31.TabIndex = 76
         Me.Label31.Text = "Year Model:"
         '
@@ -1376,7 +1363,7 @@ Partial Class frmLenderReg
         Me.Label3.AutoSize = True
         Me.Label3.Location = New System.Drawing.Point(36, 117)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(54, 16)
+        Me.Label3.Size = New System.Drawing.Size(53, 16)
         Me.Label3.TabIndex = 68
         Me.Label3.Text = "File No:"
         '
@@ -1385,7 +1372,7 @@ Partial Class frmLenderReg
         Me.Label9.AutoSize = True
         Me.Label9.Location = New System.Drawing.Point(47, 96)
         Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(43, 16)
+        Me.Label9.Size = New System.Drawing.Size(42, 16)
         Me.Label9.TabIndex = 66
         Me.Label9.Text = "Color:"
         '
@@ -1395,7 +1382,7 @@ Partial Class frmLenderReg
         Me.Label11.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label11.Location = New System.Drawing.Point(19, 33)
         Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(71, 16)
+        Me.Label11.Size = New System.Drawing.Size(70, 16)
         Me.Label11.TabIndex = 62
         Me.Label11.Text = "Frame No:"
         '
@@ -1404,7 +1391,7 @@ Partial Class frmLenderReg
         Me.Label16.AutoSize = True
         Me.Label16.Location = New System.Drawing.Point(41, 55)
         Me.Label16.Name = "Label16"
-        Me.Label16.Size = New System.Drawing.Size(49, 16)
+        Me.Label16.Size = New System.Drawing.Size(48, 16)
         Me.Label16.TabIndex = 60
         Me.Label16.Text = "Model:"
         '
@@ -1414,18 +1401,31 @@ Partial Class frmLenderReg
         Me.Label18.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label18.Location = New System.Drawing.Point(16, 12)
         Me.Label18.Name = "Label18"
-        Me.Label18.Size = New System.Drawing.Size(74, 16)
+        Me.Label18.Size = New System.Drawing.Size(73, 16)
         Me.Label18.TabIndex = 58
         Me.Label18.Text = "Engine No:"
         '
-        'Label10
+        'txtField29
         '
-        Me.Label10.AutoSize = True
-        Me.Label10.Location = New System.Drawing.Point(3, 77)
-        Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(87, 16)
-        Me.Label10.TabIndex = 101
-        Me.Label10.Text = "Brand Name:"
+        Me.txtField29.BackColor = System.Drawing.SystemColors.Control
+        Me.txtField29.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.txtField29.Enabled = False
+        Me.txtField29.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txtField29.Location = New System.Drawing.Point(126, 157)
+        Me.txtField29.Name = "txtField29"
+        Me.txtField29.ReadOnly = True
+        Me.txtField29.Size = New System.Drawing.Size(121, 20)
+        Me.txtField29.TabIndex = 123
+        Me.txtField29.TabStop = False
+        '
+        'Label24
+        '
+        Me.Label24.AutoSize = True
+        Me.Label24.Location = New System.Drawing.Point(67, 157)
+        Me.Label24.Name = "Label24"
+        Me.Label24.Size = New System.Drawing.Size(55, 16)
+        Me.Label24.TabIndex = 124
+        Me.Label24.Text = "Rebate:"
         '
         'frmLenderReg
         '
@@ -1507,8 +1507,6 @@ Partial Class frmLenderReg
     Friend WithEvents Label46 As System.Windows.Forms.Label
     Friend WithEvents txtField30 As System.Windows.Forms.TextBox
     Friend WithEvents Label25 As System.Windows.Forms.Label
-    Friend WithEvents txtField29 As System.Windows.Forms.TextBox
-    Friend WithEvents Label24 As System.Windows.Forms.Label
     Friend WithEvents txtField21 As System.Windows.Forms.TextBox
     Friend WithEvents txtField20 As System.Windows.Forms.TextBox
     Friend WithEvents Label36 As System.Windows.Forms.Label
@@ -1564,4 +1562,6 @@ Partial Class frmLenderReg
     Friend WithEvents Label16 As System.Windows.Forms.Label
     Friend WithEvents Label18 As System.Windows.Forms.Label
     Friend WithEvents Label10 As System.Windows.Forms.Label
+    Friend WithEvents txtField29 As TextBox
+    Friend WithEvents Label24 As Label
 End Class
