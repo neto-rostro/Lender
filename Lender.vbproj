@@ -228,18 +228,6 @@
     <Compile Include="frmMarketplaceHistory.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmMCARContract.Designer.vb">
-      <DependentUpon>frmMCARContract.vb</DependentUpon>
-    </Compile>
-    <Compile Include="frmMCARContract.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmMCARContractHist.Designer.vb">
-      <DependentUpon>frmMCARContractHist.vb</DependentUpon>
-    </Compile>
-    <Compile Include="frmMCARContractHist.vb">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Include="frmMPCreditAppHistory.Designer.vb">
       <DependentUpon>frmMPCreditAppHistory.vb</DependentUpon>
     </Compile>
@@ -806,12 +794,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmMarketplaceHistory.resx">
       <DependentUpon>frmMarketplaceHistory.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmMCARContract.resx">
-      <DependentUpon>frmMCARContract.vb</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmMCARContractHist.resx">
-      <DependentUpon>frmMCARContractHist.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmMPCreditAppHistory.resx">
       <DependentUpon>frmMPCreditAppHistory.vb</DependentUpon>

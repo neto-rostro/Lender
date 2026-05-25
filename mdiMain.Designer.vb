@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class mdiMain
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,7 +20,7 @@ Partial Class mdiMain
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Me.components = New System.ComponentModel.Container()
         Me.MenuStrip1 = New System.Windows.Forms.MenuStrip()
@@ -158,7 +158,6 @@ Partial Class mdiMain
         Me.ReportsToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.StandardToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
-        Me.MCARContractToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
@@ -325,7 +324,7 @@ Partial Class mdiMain
         '
         'TransactionToolStripMenuItem
         '
-        Me.TransactionToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.LRApplicationToolStripMenuItem, Me.ToolStripSeparator41, Me.ToolStripMenuItem1, Me.ToolStripSeparator2, Me.AdjustmentToolStripMenuItem, Me.ToolStripSeparator4, Me.LRPaymentToolStripMenuItem1, Me.ToolStripSeparator8, Me.InHousePaymentToolStripMenuItem, Me.ToolStripSeparator5, Me.ToolStripMenuItem2, Me.ToolStripSeparator7, Me.PRPaymentsToolStripMenuItem, Me.ToolStripSeparator45, Me.RaffleEntryScannerToolStripMenuItem, Me.ToolStripSeparator9, Me.ChecksReceivedClearingToolStripMenuItem, Me.ToolStripSeparator43, Me.PaymentPartnersToolStripMenuItem, Me.ToolStripSeparator44, Me.LoanApplicationToolStripMenuItem, Me.EvaluatorToolStripMenuItem, Me.CollectorToolStripMenuItem, Me.MCARContractToolStripMenuItem})
+        Me.TransactionToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.LRApplicationToolStripMenuItem, Me.ToolStripSeparator41, Me.ToolStripMenuItem1, Me.ToolStripSeparator2, Me.AdjustmentToolStripMenuItem, Me.ToolStripSeparator4, Me.LRPaymentToolStripMenuItem1, Me.ToolStripSeparator8, Me.InHousePaymentToolStripMenuItem, Me.ToolStripSeparator5, Me.ToolStripMenuItem2, Me.ToolStripSeparator7, Me.PRPaymentsToolStripMenuItem, Me.ToolStripSeparator45, Me.RaffleEntryScannerToolStripMenuItem, Me.ToolStripSeparator9, Me.ChecksReceivedClearingToolStripMenuItem, Me.ToolStripSeparator43, Me.PaymentPartnersToolStripMenuItem, Me.ToolStripSeparator44, Me.LoanApplicationToolStripMenuItem, Me.EvaluatorToolStripMenuItem, Me.CollectorToolStripMenuItem})
         Me.TransactionToolStripMenuItem.Name = "TransactionToolStripMenuItem"
         Me.TransactionToolStripMenuItem.Size = New System.Drawing.Size(80, 20)
         Me.TransactionToolStripMenuItem.Text = "Transaction"
@@ -340,29 +339,29 @@ Partial Class mdiMain
         'EntryToolStripMenuItem
         '
         Me.EntryToolStripMenuItem.Name = "EntryToolStripMenuItem"
-        Me.EntryToolStripMenuItem.Size = New System.Drawing.Size(122, 22)
+        Me.EntryToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.EntryToolStripMenuItem.Text = "Entry"
         '
         'ToolStripSeparator36
         '
         Me.ToolStripSeparator36.Name = "ToolStripSeparator36"
-        Me.ToolStripSeparator36.Size = New System.Drawing.Size(119, 6)
+        Me.ToolStripSeparator36.Size = New System.Drawing.Size(177, 6)
         '
         'ApprovalToolStripMenuItem
         '
         Me.ApprovalToolStripMenuItem.Name = "ApprovalToolStripMenuItem"
-        Me.ApprovalToolStripMenuItem.Size = New System.Drawing.Size(122, 22)
+        Me.ApprovalToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.ApprovalToolStripMenuItem.Text = "Approval"
         '
         'ToolStripSeparator37
         '
         Me.ToolStripSeparator37.Name = "ToolStripSeparator37"
-        Me.ToolStripSeparator37.Size = New System.Drawing.Size(119, 6)
+        Me.ToolStripSeparator37.Size = New System.Drawing.Size(177, 6)
         '
         'ReleaseToolStripMenuItem1
         '
         Me.ReleaseToolStripMenuItem1.Name = "ReleaseToolStripMenuItem1"
-        Me.ReleaseToolStripMenuItem1.Size = New System.Drawing.Size(122, 22)
+        Me.ReleaseToolStripMenuItem1.Size = New System.Drawing.Size(180, 22)
         Me.ReleaseToolStripMenuItem1.Text = "Release"
         '
         'ToolStripSeparator41
@@ -955,12 +954,6 @@ Partial Class mdiMain
         Me.Timer1.Enabled = True
         Me.Timer1.Interval = 1000
         '
-        'MCARContractToolStripMenuItem
-        '
-        Me.MCARContractToolStripMenuItem.Name = "MCARContractToolStripMenuItem"
-        Me.MCARContractToolStripMenuItem.Size = New System.Drawing.Size(214, 22)
-        Me.MCARContractToolStripMenuItem.Text = "MC AR Contract"
-        '
         'mdiMain
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -1116,5 +1109,4 @@ Partial Class mdiMain
     Friend WithEvents RaffleEntryScannerToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents MotorcycleToolStripMenuItem1 As ToolStripMenuItem
     Friend WithEvents MobilePhoneToolStripMenuItem1 As ToolStripMenuItem
-    Friend WithEvents MCARContractToolStripMenuItem As ToolStripMenuItem
 End Class
