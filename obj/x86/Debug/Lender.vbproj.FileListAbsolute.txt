@@ -2000,13 +2000,6 @@ D:\Guanzon\GMC SEG Folder\vb net\My Projects\Lender\obj\x86\Debug\Lender.Resourc
 D:\Guanzon\GMC SEG Folder\vb net\My Projects\Lender\obj\x86\Debug\Lender.frmRedeemableItems.resources
 D:\Guanzon\GMC SEG Folder\vb net\My Projects\Lender\obj\x86\Debug\Lender.vbproj.GenerateResource.cache
 D:\Guanzon\GMC SEG Folder\vb net\My Projects\Lender\obj\x86\Debug\Lender.vbproj.CoreCompileInputs.cache
-C:\GGC_Systems\vb.net\frmDateCriteria.resx
-C:\GGC_Systems\vb.net\frmDateCriteria.Designer.vb
-C:\GGC_Systems\vb.net\frmDateCriteria.vb
-C:\GGC_Systems\vb.net\Lender.exe.config
-C:\GGC_Systems\vb.net\Lender.exe
-C:\GGC_Systems\vb.net\Lender.pdb
-C:\GGC_Systems\vb.net\Lender.xml
 D:\Guanzon\GMC SEG Folder\vb net\My Projects\Lender\obj\x86\Debug\Lender.frmMCARContractHist.resources
 D:\Guanzon\GMC SEG Folder\vb net\My Projects\Lender\obj\x86\Debug\Lender.vbproj.CopyComplete
 D:\Guanzon\GMC SEG Folder\vb net\My Projects\Lender\obj\x86\Debug\Lender.exe
