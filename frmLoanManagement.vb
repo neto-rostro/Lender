@@ -1,4 +1,8 @@
-﻿Imports MySql.Data.MySqlClient
+﻿
+'   kalyptus 2026.03.09
+'       Update Interest Rate to Mo. Int. Rate 
+
+Imports MySql.Data.MySqlClient
 Imports ggcLRTransaction
 Imports ggcAppDriver
 
