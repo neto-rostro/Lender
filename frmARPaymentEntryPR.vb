@@ -326,11 +326,11 @@ Public Class frmARPaymentEntryPR
 
                 If poTrans.SaveTransaction Then
                     MsgBox("AR Payment was save successfully!", MsgBoxStyle.Information, "AR Payment Entry")
-                    If MsgBox("Do you want POST the transaction", MsgBoxStyle.Information + MsgBoxStyle.OkCancel, "Confirmation") = MsgBoxResult.Ok Then
-                        If Not poTrans.PostTransaction Then
-                            MsgBox("Unable to POST the AR Payment!", MsgBoxStyle.Information, "AR Payment Entry")
-                        End If
-                    End If
+                    'If MsgBox("Do you want POST the transaction", MsgBoxStyle.Information + MsgBoxStyle.OkCancel, "Confirmation") = MsgBoxResult.Ok Then
+                    '    If Not poTrans.PostTransaction Then
+                    '        MsgBox("Unable to POST the AR Payment!", MsgBoxStyle.Information, "AR Payment Entry")
+                    '    End If
+                    'End If
 
                     showEditMode(Me, xeEditMode.MODE_READY)
                     cmdButton01.Focus()
