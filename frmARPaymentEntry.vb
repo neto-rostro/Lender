@@ -352,14 +352,12 @@ Public Class frmARPaymentEntry
                     If MsgBox("Do you want to PRINT the transaction", MsgBoxStyle.Information + MsgBoxStyle.OkCancel, "AR Payment Printing") = MsgBoxResult.Ok Then
                         If Not poTrans.PrintTrans Then
                             MsgBox("Unable to print AR Payment!", MsgBoxStyle.Information, "AR Payment Entry")
-                        End If
-                    End If
-
-                    If MsgBox("Do you want to POST the transaction", MsgBoxStyle.Information + MsgBoxStyle.OkCancel, "AR Payment Confirmation") = MsgBoxResult.Ok Then
-                        If Not poTrans.PostTransaction Then
-                            MsgBox("Unable to POST the AR Payment!", MsgBoxStyle.Information, "AR Payment Entry")
                         Else
-                            MsgBox("Payment Posted Successfully.!", MsgBoxStyle.Information, "AR Payment Entry")
+                            If Not poTrans.PostTransaction Then
+                                MsgBox("Unable to POST the AR Payment!", MsgBoxStyle.Information, "AR Payment Entry")
+                            Else
+                                MsgBox("Payment Posted Successfully.!", MsgBoxStyle.Information, "AR Payment Entry")
+                            End If
                         End If
                     End If
 

@@ -189,6 +189,13 @@ Public Class frmARPaymentReg
         Select Case lnIndex
             Case 0 ' Exit
                 Me.Dispose()
+            Case 1 ' Cancel
+                If poTrans.CancelTransaction Then
+                    MsgBox("Transaction was cancelled successfully!", MsgBoxStyle.Information + MsgBoxStyle.OkOnly, "AR Payment History")
+                    Call loadMaster(Me.Panel1)
+                    Call loadMaster(Me.Panel5)
+                    Call loadMaster(Me.Panel2)
+                End If
             Case 3 ' Search
                 Dim loIndex As Integer
                 loIndex = Val(Mid(poControl.Name, 10))
