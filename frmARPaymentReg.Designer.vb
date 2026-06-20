@@ -23,6 +23,8 @@ Partial Class frmARPaymentReg
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.Panel4 = New System.Windows.Forms.Panel()
+        Me.cmdButton03 = New System.Windows.Forms.Button()
+        Me.cmdButton00 = New System.Windows.Forms.Button()
         Me.Panel5 = New System.Windows.Forms.Panel()
         Me.txtField94 = New System.Windows.Forms.TextBox()
         Me.Label20 = New System.Windows.Forms.Label()
@@ -88,8 +90,7 @@ Partial Class frmARPaymentReg
         Me.Label12 = New System.Windows.Forms.Label()
         Me.txtField95 = New System.Windows.Forms.TextBox()
         Me.Label11 = New System.Windows.Forms.Label()
-        Me.cmdButton03 = New System.Windows.Forms.Button()
-        Me.cmdButton00 = New System.Windows.Forms.Button()
+        Me.cmdButton01 = New System.Windows.Forms.Button()
         Me.Panel4.SuspendLayout()
         Me.Panel5.SuspendLayout()
         Me.Panel3.SuspendLayout()
@@ -100,12 +101,39 @@ Partial Class frmARPaymentReg
         'Panel4
         '
         Me.Panel4.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
+        Me.Panel4.Controls.Add(Me.cmdButton01)
         Me.Panel4.Controls.Add(Me.cmdButton03)
         Me.Panel4.Controls.Add(Me.cmdButton00)
         Me.Panel4.Location = New System.Drawing.Point(535, 10)
         Me.Panel4.Name = "Panel4"
         Me.Panel4.Size = New System.Drawing.Size(116, 525)
         Me.Panel4.TabIndex = 67
+        '
+        'cmdButton03
+        '
+        Me.cmdButton03.Image = Global.Lender.My.Resources.Resources.browse
+        Me.cmdButton03.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.cmdButton03.Location = New System.Drawing.Point(11, 80)
+        Me.cmdButton03.Name = "cmdButton03"
+        Me.cmdButton03.Size = New System.Drawing.Size(91, 38)
+        Me.cmdButton03.TabIndex = 7
+        Me.cmdButton03.TabStop = False
+        Me.cmdButton03.Text = " &Browse"
+        Me.cmdButton03.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.cmdButton03.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
+        Me.cmdButton03.UseVisualStyleBackColor = True
+        '
+        'cmdButton00
+        '
+        Me.cmdButton00.Image = Global.Lender.My.Resources.Resources._exit
+        Me.cmdButton00.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.cmdButton00.Location = New System.Drawing.Point(11, 156)
+        Me.cmdButton00.Name = "cmdButton00"
+        Me.cmdButton00.Size = New System.Drawing.Size(91, 38)
+        Me.cmdButton00.TabIndex = 10
+        Me.cmdButton00.Text = "   E&xit"
+        Me.cmdButton00.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
+        Me.cmdButton00.UseVisualStyleBackColor = True
         '
         'Panel5
         '
@@ -788,31 +816,17 @@ Partial Class frmARPaymentReg
         Me.Label11.TabIndex = 41
         Me.Label11.Text = "Company"
         '
-        'cmdButton03
+        'cmdButton01
         '
-        Me.cmdButton03.Image = Global.Lender.My.Resources.Resources.browse
-        Me.cmdButton03.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton03.Location = New System.Drawing.Point(11, 114)
-        Me.cmdButton03.Name = "cmdButton03"
-        Me.cmdButton03.Size = New System.Drawing.Size(91, 38)
-        Me.cmdButton03.TabIndex = 7
-        Me.cmdButton03.TabStop = False
-        Me.cmdButton03.Text = " &Browse"
-        Me.cmdButton03.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton03.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
-        Me.cmdButton03.UseVisualStyleBackColor = True
-        '
-        'cmdButton00
-        '
-        Me.cmdButton00.Image = Global.Lender.My.Resources.Resources._exit
-        Me.cmdButton00.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton00.Location = New System.Drawing.Point(11, 156)
-        Me.cmdButton00.Name = "cmdButton00"
-        Me.cmdButton00.Size = New System.Drawing.Size(91, 38)
-        Me.cmdButton00.TabIndex = 10
-        Me.cmdButton00.Text = "   E&xit"
-        Me.cmdButton00.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
-        Me.cmdButton00.UseVisualStyleBackColor = True
+        Me.cmdButton01.Image = Global.Lender.My.Resources.Resources.cancel
+        Me.cmdButton01.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.cmdButton01.Location = New System.Drawing.Point(11, 118)
+        Me.cmdButton01.Name = "cmdButton01"
+        Me.cmdButton01.Size = New System.Drawing.Size(91, 38)
+        Me.cmdButton01.TabIndex = 11
+        Me.cmdButton01.Text = " &Cancel"
+        Me.cmdButton01.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
+        Me.cmdButton01.UseVisualStyleBackColor = True
         '
         'frmARPaymentReg
         '
@@ -911,4 +925,5 @@ Partial Class frmARPaymentReg
     Friend WithEvents txtField95 As System.Windows.Forms.TextBox
     Friend WithEvents Label11 As System.Windows.Forms.Label
     Friend WithEvents txtStatus As System.Windows.Forms.TextBox
+    Friend WithEvents cmdButton01 As Button
 End Class
