@@ -646,7 +646,7 @@ Partial Class frmARPaymentEntry
         '
         Me.cmdButton00.Image = Global.Lender.My.Resources.Resources._exit
         Me.cmdButton00.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton00.Location = New System.Drawing.Point(12, 86)
+        Me.cmdButton00.Location = New System.Drawing.Point(12, 82)
         Me.cmdButton00.Name = "cmdButton00"
         Me.cmdButton00.Size = New System.Drawing.Size(91, 38)
         Me.cmdButton00.TabIndex = 66
@@ -658,7 +658,7 @@ Partial Class frmARPaymentEntry
         '
         Me.cmdButton01.Image = Global.Lender.My.Resources.Resources._new
         Me.cmdButton01.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton01.Location = New System.Drawing.Point(12, 46)
+        Me.cmdButton01.Location = New System.Drawing.Point(12, 44)
         Me.cmdButton01.Name = "cmdButton01"
         Me.cmdButton01.Size = New System.Drawing.Size(91, 38)
         Me.cmdButton01.TabIndex = 65
@@ -683,7 +683,7 @@ Partial Class frmARPaymentEntry
         '
         Me.cmdButton04.Image = Global.Lender.My.Resources.Resources.save
         Me.cmdButton04.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton04.Location = New System.Drawing.Point(11, 46)
+        Me.cmdButton04.Location = New System.Drawing.Point(11, 44)
         Me.cmdButton04.Name = "cmdButton04"
         Me.cmdButton04.Size = New System.Drawing.Size(91, 38)
         Me.cmdButton04.TabIndex = 62
@@ -695,7 +695,7 @@ Partial Class frmARPaymentEntry
         '
         Me.cmdButton03.Image = Global.Lender.My.Resources.Resources.cancel_update
         Me.cmdButton03.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton03.Location = New System.Drawing.Point(11, 86)
+        Me.cmdButton03.Location = New System.Drawing.Point(11, 82)
         Me.cmdButton03.Name = "cmdButton03"
         Me.cmdButton03.Size = New System.Drawing.Size(91, 38)
         Me.cmdButton03.TabIndex = 63

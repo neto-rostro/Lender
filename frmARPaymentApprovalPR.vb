@@ -76,7 +76,17 @@ Public Class frmARPaymentApprovalPR
     End Sub
 
     Private Sub frmARPaymentApprovalPR_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles Me.KeyDown
-        If e.KeyCode = Keys.F3 Or e.KeyCode = Keys.Enter Then
+        If e.KeyCode = Keys.F8 Then
+            If txtField00.Text = "" Then
+                MsgBox("No Transaction Loaded.", MsgBoxStyle.Information + MsgBoxStyle.OkOnly, "AR Payment Posting")
+            End If
+
+            If poTrans.DeleteTransaction Then
+                MsgBox("Transaction void successfully!", MsgBoxStyle.Information + MsgBoxStyle.OkOnly, "AR Payment Posting")
+                Clearfields()
+                txtSeeks01.Focus()
+            End If
+        ElseIf e.KeyCode = Keys.F3 Or e.KeyCode = Keys.Enter Then
             Dim loTxt As Control
 
             loTxt = Nothing
@@ -221,6 +231,28 @@ Public Class frmARPaymentApprovalPR
                     End Select
                 End If
         End Select
+    End Sub
+
+    Private Sub Clearfields()
+        Dim loTxt As Control
+
+        For Each loTxt In Panel1.Controls
+            If (TypeOf loTxt Is TextBox) Then loTxt.Text = ""
+        Next
+
+        For Each loTxt In Panel2.Controls
+            If (TypeOf loTxt Is TextBox) Then loTxt.Text = ""
+        Next
+
+        For Each loTxt In Panel3.Controls
+            If (TypeOf loTxt Is TextBox) Then loTxt.Text = ""
+        Next
+
+        For Each loTxt In Panel5.Controls
+            If (TypeOf loTxt Is TextBox) Then loTxt.Text = ""
+        Next
+
+        If Not poTrans Is Nothing Then txtSeeks00.Text = poTrans.BranchName
     End Sub
 
     Private Sub txtSeeks_GotFocus(ByVal sender As Object, ByVal e As System.EventArgs)
