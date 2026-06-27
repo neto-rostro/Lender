@@ -343,7 +343,7 @@ Partial Class frmARPaymentApprovalPR
         '
         Me.cmdButton02.Image = Global.Lender.My.Resources.Resources.post
         Me.cmdButton02.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton02.Location = New System.Drawing.Point(11, 74)
+        Me.cmdButton02.Location = New System.Drawing.Point(11, 42)
         Me.cmdButton02.Name = "cmdButton02"
         Me.cmdButton02.Size = New System.Drawing.Size(91, 38)
         Me.cmdButton02.TabIndex = 8
@@ -355,19 +355,20 @@ Partial Class frmARPaymentApprovalPR
         '
         Me.cmdButton01.Image = Global.Lender.My.Resources.Resources.cancel
         Me.cmdButton01.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton01.Location = New System.Drawing.Point(11, 115)
+        Me.cmdButton01.Location = New System.Drawing.Point(11, 186)
         Me.cmdButton01.Name = "cmdButton01"
         Me.cmdButton01.Size = New System.Drawing.Size(91, 38)
         Me.cmdButton01.TabIndex = 9
         Me.cmdButton01.Text = " &Cancel"
         Me.cmdButton01.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.cmdButton01.UseVisualStyleBackColor = True
+        Me.cmdButton01.Visible = False
         '
         'cmdButton03
         '
         Me.cmdButton03.Image = Global.Lender.My.Resources.Resources.browse
         Me.cmdButton03.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton03.Location = New System.Drawing.Point(11, 33)
+        Me.cmdButton03.Location = New System.Drawing.Point(11, 4)
         Me.cmdButton03.Name = "cmdButton03"
         Me.cmdButton03.Size = New System.Drawing.Size(91, 38)
         Me.cmdButton03.TabIndex = 7
@@ -381,7 +382,7 @@ Partial Class frmARPaymentApprovalPR
         '
         Me.cmdButton00.Image = Global.Lender.My.Resources.Resources._exit
         Me.cmdButton00.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton00.Location = New System.Drawing.Point(11, 156)
+        Me.cmdButton00.Location = New System.Drawing.Point(11, 80)
         Me.cmdButton00.Name = "cmdButton00"
         Me.cmdButton00.Size = New System.Drawing.Size(91, 38)
         Me.cmdButton00.TabIndex = 10

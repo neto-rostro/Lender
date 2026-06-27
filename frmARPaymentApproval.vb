@@ -29,6 +29,15 @@ Public Class frmARPaymentApproval
     Private poControl As Control
     Private p_cTranType As String
 
+    Public Sub New()
+
+        ' This call is required by the designer.
+        InitializeComponent()
+
+        ' Add any initialization after the InitializeComponent() call.
+
+    End Sub
+
     Public Property TranType() As String
         Get
             Return p_cTranType
@@ -40,6 +49,8 @@ Public Class frmARPaymentApproval
 
     Private Sub frmARPaymentApproval_Activated(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Activated
         Debug.Print("frmARPaymentApproval_Activated")
+        Clearfields()
+
         If pnLoadx = 1 Then
 
             Me.Text = "MC AR Payment Approval"
@@ -71,12 +82,21 @@ Public Class frmARPaymentApproval
             End If
 
             pnLoadx = 2
-
         End If
     End Sub
 
     Private Sub frmARPaymentApproval_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles Me.KeyDown
-        If e.KeyCode = Keys.F3 Or e.KeyCode = Keys.Enter Then
+        If e.KeyCode = Keys.F8 Then
+            If txtField00.Text = "" Then
+                MsgBox("No Transaction Loaded.", MsgBoxStyle.Information + MsgBoxStyle.OkOnly, "AR Payment Posting")
+            End If
+
+            If poTrans.DeleteTransaction Then
+                MsgBox("Transaction void successfully!", MsgBoxStyle.Information + MsgBoxStyle.OkOnly, "AR Payment Posting")
+                Clearfields()
+                txtSeeks01.Focus()
+            End If
+        ElseIf e.KeyCode = Keys.F3 Or e.KeyCode = Keys.Enter Then
             Dim loTxt As Control
 
             loTxt = Nothing
@@ -124,6 +144,28 @@ Public Class frmARPaymentApproval
 
             pnLoadx = 1
         End If
+    End Sub
+
+    Private Sub Clearfields()
+        Dim loTxt As Control
+
+        For Each loTxt In Panel1.Controls
+            If (TypeOf loTxt Is TextBox) Then loTxt.Text = ""
+        Next
+
+        For Each loTxt In Panel2.Controls
+            If (TypeOf loTxt Is TextBox) Then loTxt.Text = ""
+        Next
+
+        For Each loTxt In Panel3.Controls
+            If (TypeOf loTxt Is TextBox) Then loTxt.Text = ""
+        Next
+
+        For Each loTxt In Panel5.Controls
+            If (TypeOf loTxt Is TextBox) Then loTxt.Text = ""
+        Next
+
+        If Not poTrans Is Nothing Then txtSeeks00.Text = poTrans.BranchName
     End Sub
 
     Private Sub loadMaster(ByVal loControl As Control)
@@ -223,6 +265,14 @@ Public Class frmARPaymentApproval
             Case 4
                 If poTrans.PrintTrans Then
                     MsgBox("Transaction was printed successfully!", MsgBoxStyle.Information + MsgBoxStyle.OkOnly, "AR Payment Printing")
+                End If
+
+                If poTrans.Master("cPostedxx") = xeLogical.NO Then
+                    If Not poTrans.PostTransaction Then
+                        MsgBox("Unable to POST the AR Payment!", MsgBoxStyle.Information, "AR Payment Entry")
+                    Else
+                        MsgBox("Payment Posted Successfully.!", MsgBoxStyle.Information, "AR Payment Entry")
+                    End If
                 End If
         End Select
     End Sub

@@ -23,6 +23,7 @@ Partial Class frmARPaymentReg
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
         Me.Panel4 = New System.Windows.Forms.Panel()
+        Me.cmdButton01 = New System.Windows.Forms.Button()
         Me.cmdButton03 = New System.Windows.Forms.Button()
         Me.cmdButton00 = New System.Windows.Forms.Button()
         Me.Panel5 = New System.Windows.Forms.Panel()
@@ -90,7 +91,6 @@ Partial Class frmARPaymentReg
         Me.Label12 = New System.Windows.Forms.Label()
         Me.txtField95 = New System.Windows.Forms.TextBox()
         Me.Label11 = New System.Windows.Forms.Label()
-        Me.cmdButton01 = New System.Windows.Forms.Button()
         Me.Panel4.SuspendLayout()
         Me.Panel5.SuspendLayout()
         Me.Panel3.SuspendLayout()
@@ -109,11 +109,23 @@ Partial Class frmARPaymentReg
         Me.Panel4.Size = New System.Drawing.Size(116, 525)
         Me.Panel4.TabIndex = 67
         '
+        'cmdButton01
+        '
+        Me.cmdButton01.Image = Global.Lender.My.Resources.Resources.cancel
+        Me.cmdButton01.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
+        Me.cmdButton01.Location = New System.Drawing.Point(11, 42)
+        Me.cmdButton01.Name = "cmdButton01"
+        Me.cmdButton01.Size = New System.Drawing.Size(91, 38)
+        Me.cmdButton01.TabIndex = 11
+        Me.cmdButton01.Text = " &Cancel"
+        Me.cmdButton01.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
+        Me.cmdButton01.UseVisualStyleBackColor = True
+        '
         'cmdButton03
         '
         Me.cmdButton03.Image = Global.Lender.My.Resources.Resources.browse
         Me.cmdButton03.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton03.Location = New System.Drawing.Point(11, 80)
+        Me.cmdButton03.Location = New System.Drawing.Point(11, 4)
         Me.cmdButton03.Name = "cmdButton03"
         Me.cmdButton03.Size = New System.Drawing.Size(91, 38)
         Me.cmdButton03.TabIndex = 7
@@ -127,7 +139,7 @@ Partial Class frmARPaymentReg
         '
         Me.cmdButton00.Image = Global.Lender.My.Resources.Resources._exit
         Me.cmdButton00.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton00.Location = New System.Drawing.Point(11, 156)
+        Me.cmdButton00.Location = New System.Drawing.Point(11, 80)
         Me.cmdButton00.Name = "cmdButton00"
         Me.cmdButton00.Size = New System.Drawing.Size(91, 38)
         Me.cmdButton00.TabIndex = 10
@@ -815,18 +827,6 @@ Partial Class frmARPaymentReg
         Me.Label11.Size = New System.Drawing.Size(51, 13)
         Me.Label11.TabIndex = 41
         Me.Label11.Text = "Company"
-        '
-        'cmdButton01
-        '
-        Me.cmdButton01.Image = Global.Lender.My.Resources.Resources.cancel
-        Me.cmdButton01.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton01.Location = New System.Drawing.Point(11, 118)
-        Me.cmdButton01.Name = "cmdButton01"
-        Me.cmdButton01.Size = New System.Drawing.Size(91, 38)
-        Me.cmdButton01.TabIndex = 11
-        Me.cmdButton01.Text = " &Cancel"
-        Me.cmdButton01.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
-        Me.cmdButton01.UseVisualStyleBackColor = True
         '
         'frmARPaymentReg
         '
