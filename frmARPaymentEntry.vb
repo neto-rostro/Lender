@@ -308,8 +308,8 @@ Public Class frmARPaymentEntry
 
                 'she 2020-08-07 validate entry
                 If isTransValid(CDate(txtField01.Text), "MPPy", txtField03.Text, CDbl(txtField08.Text) + CDbl(txtField11.Text)) = False Then
-                    MsgBox("No Reference no found from unencoded transaction!!" & vbCrLf &
-                                     " Pls check your entry then try again!!!")
+                    'MsgBox("No Reference no found from unencoded transaction!!" & vbCrLf &
+                    '                 " Pls check your entry then try again!!!")
                     Exit Sub
                 End If
 
