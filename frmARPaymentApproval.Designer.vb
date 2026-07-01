@@ -782,7 +782,7 @@ Partial Class frmARPaymentApproval
         '
         Me.cmdButton04.Image = Global.Lender.My.Resources.Resources.print
         Me.cmdButton04.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton04.Location = New System.Drawing.Point(11, 80)
+        Me.cmdButton04.Location = New System.Drawing.Point(11, 42)
         Me.cmdButton04.Name = "cmdButton04"
         Me.cmdButton04.Size = New System.Drawing.Size(91, 38)
         Me.cmdButton04.TabIndex = 11
@@ -794,13 +794,14 @@ Partial Class frmARPaymentApproval
         '
         Me.cmdButton02.Image = Global.Lender.My.Resources.Resources.post
         Me.cmdButton02.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton02.Location = New System.Drawing.Point(11, 42)
+        Me.cmdButton02.Location = New System.Drawing.Point(11, 205)
         Me.cmdButton02.Name = "cmdButton02"
         Me.cmdButton02.Size = New System.Drawing.Size(91, 38)
         Me.cmdButton02.TabIndex = 8
         Me.cmdButton02.Text = " &Post"
         Me.cmdButton02.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
         Me.cmdButton02.UseVisualStyleBackColor = True
+        Me.cmdButton02.Visible = False
         '
         'cmdButton01
         '
@@ -833,7 +834,7 @@ Partial Class frmARPaymentApproval
         '
         Me.cmdButton00.Image = Global.Lender.My.Resources.Resources._exit
         Me.cmdButton00.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft
-        Me.cmdButton00.Location = New System.Drawing.Point(11, 118)
+        Me.cmdButton00.Location = New System.Drawing.Point(11, 80)
         Me.cmdButton00.Name = "cmdButton00"
         Me.cmdButton00.Size = New System.Drawing.Size(91, 38)
         Me.cmdButton00.TabIndex = 10
